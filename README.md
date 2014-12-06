@@ -1,4 +1,4 @@
-ca-laurentides-citl-bus-android
+ca-laurentides-citla-bus-android
 ===============================
 
-Laurentides CITL Bus for MonTransit
+Laurentides CITLA Bus for MonTransit

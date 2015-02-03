@@ -2,11 +2,17 @@ Title: CIT Laurentides Bus (MonTransit)
 ----------
 Short description: CIT Laurentides bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from January 18, 2015 to June 20, 2015.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/KoTkAw
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds CIT Laurentides bus information to MonTransit BETA.
+
+CIT Laurentides serves Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme and Saint-Joseph-du-Lac.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 

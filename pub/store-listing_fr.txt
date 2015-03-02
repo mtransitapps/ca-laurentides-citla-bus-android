@@ -1,16 +1,21 @@
-Title: Bus CIT Laurentides (MonTransit)
+Title: Bus CIT Laurentides - MonTran…
 ----------
-Short description: Informations des bus CIT Laurentides pour MonTransit BETA.
+Short description:
+Bus CIT Laurentides pour MonTransit BETA
+Horaires. Tweets de @CIT_Laurentides
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 18 Janvier 2015 au 10 Juin 2015.
+Tweets de @CIT_Laurentides.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus CIT Laurentides à MonTransit BETA.
+
+Cette application contient les horaires et les dernières nouvelles de @CIT_Laurentides sur Twitter.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Le CIT Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 
@@ -27,3 +32,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-laurentides-citla-bus-android
 
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Laurentides.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)

@@ -3,13 +3,4 @@
     <integer name="gtfs_rts_db_version">20150219</integer>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_laurentides_citla_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
-    <integer name="gtfs_rts_agency_type">3</integer>
-    <bool name="gtfs_rts_schedule_available">true</bool>
-    <bool name="gtfs_rts_frequency_available">false</bool> <!-- no frequencies -->
-    <string name="gtfs_rts_timezone">America/Montreal</string>
-    <string name="gtfs_rts_area_min_lat">45.4875150056709</string>
-    <string name="gtfs_rts_area_max_lat">45.813678812487</string>
-    <string name="gtfs_rts_area_min_lng">-74.0515101736978</string>
-    <string name="gtfs_rts_area_max_lng">-73.6830347736878</string>
-    <string name="gtfs_rts_color">005984</string>
 </resources>

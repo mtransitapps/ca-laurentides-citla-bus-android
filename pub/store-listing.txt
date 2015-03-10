@@ -11,22 +11,22 @@ Tweets from @CIT_Laurentides.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds CIT Laurentides bus information to MonTransit BETA.
+This application adds CIT Laurentides buses information to MonTransit BETA.
 
-This app contains the bus schedule and the latest news from @CIT_Laurentides on Twitter.
+This app contains the buses schedule and the latest news from @CIT_Laurentides on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 CIT Laurentides serves Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme and Saint-Joseph-du-Lac.
 
-Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
 
 This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
-http://www.amt.qc.ca/developers/
+https://www.amt.qc.ca/en/about/open-data
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-laurentides-citla-bus-android

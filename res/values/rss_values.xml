@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <integer name="rss_db_version">1</integer>
+    <string name="rss_authority">org.mtransit.android.ca_laurentides_citla_bus.news.rss</string>
+    <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="rss_color">@string/gtfs_rts_color</string>
+    <string-array name="rss_feeds">
+        <item>http://www.citl.qc.ca/feed/</item>
+    </string-array>
+    <string-array name="rss_feeds_author_name">
+        <item>@string/gtfs_rts_short_name</item>
+    </string-array>
+    <string-array name="rss_feeds_author_url">
+        <item>http://www.citl.qc.ca/nouvelles/</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>www.citl.qc.ca</item>
+    </string-array>
+    <string-array name="rss_feeds_lang">
+        <item>@string/news_provider_language_unknown_show_all</item>
+    </string-array>
+    <string-array name="rss_feeds_colors">
+        <item>@string/rss_color</item>
+    </string-array>
+    <string-array name="rss_feeds_target">
+        <item>@string/rss_target_for_poi_authority</item>
+    </string-array>
+    <integer-array name="rss_feeds_severity">
+        <item>@integer/news_provider_severity_info_agency</item>
+    </integer-array>
+    <string-array name="rss_feeds_noteworthy">
+        <item>@string/news_provider_noteworthy_long_term</item>
+    </string-array>
+</resources>

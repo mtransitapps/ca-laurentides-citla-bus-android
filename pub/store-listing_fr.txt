@@ -2,10 +2,11 @@ Title: Bus CIT Laurentides - MonTran…
 ----------
 Short description:
 Bus CIT Laurentides pour MonTransit BETA
-Horaires. Tweets de @CIT_Laurentides
+Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 18 Janvier 2015 au 10 Juin 2015.
+Nouvelles de www.citl.qc.ca.
 Tweets de @CIT_Laurentides.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
@@ -13,7 +14,7 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 Full description:
 Cette application ajoute les informations des autobus CIT Laurentides à MonTransit BETA.
 
-Cette application contient les horaires et les dernières nouvelles de @CIT_Laurentides sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @CIT_Laurentides sur Twitter.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
@@ -34,4 +35,4 @@ https://github.com/mtransitapps/ca-laurentides-citla-bus-android
 Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Laurentides.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles (Twitter)
+- Autres: requis pour lire les nouvelles de www.citl.qc.ca et Twitter

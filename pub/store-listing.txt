@@ -2,10 +2,11 @@ Title: CIT Laurentides Bus - MonTran…
 ----------
 Short description:
 CIT Laurentides bus for MonTransit BETA
-Schedule. Tweets from @CIT_Laurentides
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from January 18, 2015 to June 20, 2015.
+News from www.citl.qc.ca.
 Tweets from @CIT_Laurentides.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
@@ -13,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds CIT Laurentides buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from @CIT_Laurentides on Twitter.
+This app contains the buses schedule and the latest news from www.citl.qc.ca and @CIT_Laurentides on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -34,7 +35,7 @@ https://github.com/mtransitapps/ca-laurentides-citla-bus-android
 This app is not related with the Agence Métropolitaine de Transport and CIT Laurentides.
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required to read news from www.citl.qc.ca and Twitter
 ----------
 Application type: Applications
 ----------

@@ -1,7 +1,7 @@
 Title: Bus CIT Laurentides - MonTran…
 ----------
 Short description:
-Autobus CIT Laurentides pour MonTransit
+Autobus CIT Laurentides pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:

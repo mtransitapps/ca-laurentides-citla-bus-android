@@ -5,7 +5,7 @@ Autobus CIT Laurentides pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 24 Mai 2015 au 21 Août 2015.
+Horaires du 24 Mai 2015 au 20 Juin 2015.
 Nouvelles de www.citl.qc.ca.
 Tweets de @CIT_Laurentides.
 ----------

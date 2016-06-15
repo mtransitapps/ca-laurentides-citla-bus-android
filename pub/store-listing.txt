@@ -5,7 +5,7 @@ CIT Laurentides buses for MonTransits
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from January 17, 2016 to June 18, 2016.
+Schedule from May 18, 2016 to June 18, 2016.
 News from www.citl.qc.ca.
 Tweets from @CIT_Laurentides.
 ----------

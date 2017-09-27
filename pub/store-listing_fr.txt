@@ -1,20 +1,20 @@
-Title: Bus CIT Laurentides - MonTran…
+Title: Bus RTM (CIT) Laurentides - MonTran…
 ----------
 Short description:
-Autobus CIT Laurentides pour MonTransit.
+Autobus RTM (CIT) Laurentides pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
 Horaires du 20 août 2017 au 15 octobre 2017.
 Nouvelles de www.citl.qc.ca.
-Tweets de @CIT_Laurentides.
+Tweets de @RTM_Laurentides.
 ----------
 Full description:
-Cette application ajoute les informations des autobus CIT Laurentides à MonTransit.
+Cette application ajoute les informations des autobus RTM (CIT) Laurentides à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @CIT_Laurentides sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @RTM_Laurentides sur Twitter.
 
-Le CIT Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
+Le RTM (CIT) Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -22,13 +22,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (AMT).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-laurentides-citla-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Laurentides.
+Cette application n'est pas associée à le Réseau de Transport Métropolitain (AMT) et RTM (CIT) Laurentides.
 
 Autorisations :
 - Autres: requis pour lire les nouvelles de www.citl.qc.ca et Twitter

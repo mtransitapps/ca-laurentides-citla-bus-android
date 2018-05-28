@@ -1,64 +1,64 @@
-800,0,'Laval',8
-801,0,'St-Eustache',8
-900,0,'Laval',9
-901,0,'St-Jérôme',9
-1100,0,'Laval',11
-1101,0,'Ste-Thérèse',11
+801,0,'Métro / Montmorency',8
+800,0,'Terminus / St-Eustache',8
+901,0,'Métro Montmorency',9
+900,0,'St-Jérôme',9
+1100,0,'Gare Ste-Thérèse',11
+1101,0,'Laval',11
+1201,0,'Laval',12
 1200,0,'Lorraine',12
-1201,0,'Rosemère',12
 1500,0,'Gare Rosemère',15
-1501,0,'Parc Hamilton',15
-1701,0,'Rosemère',17
-1700,0,'Terrebonne',17
+1501,0,'Rosemère / Via Du Parc',15
+1701,0,'Gare Rosemère',17
+1700,0,'Terrebonne / Georges Iv',17
 2001,0,'Gare Rosemère',20
-2000,0,'Vignobles',20
-2200,0,'Bois-Des-Filion',22
-2201,0,'Ste-Thérèse',22
+2000,0,'Rosemère / François',20
+2200,0,'Bois-Des-Filion / Via Georges Iv',22
+2201,0,'Gare Ste-Thérèse',22
+2301,0,'Gare Ste-Thérèse',23
 2300,0,'Ste-Anne-Des-Plaines',23
-2301,0,'Ste-Thérèse',23
-2400,0,'Laval',24
-2401,0,'Ste-Anne-Des-Plaines',24
-2700,0,'Lorraine',27
-2701,0,'Ste-Thérèse',27
-2800,0,'Laval',28
-2801,0,'Terrebonne',28
-5101,0,'Boisbriand Nord / Sud',51
-5201,0,'Boisbriand Sud / Nord',52
-5901,0,'Boisbriand',59
-5900,0,'Laval',59
-6001,0,'Gare De Ste-Thérèse',60
-6000,0,'Ste-Thérèse',60
-6100,0,'Ste-Thérèse Sud',61
-6200,0,'Ste-Thérèse Nord',62
-7101,0,'Blainville Est',71
-7201,0,'Blainville Ouest',72
-7300,0,'Ste-Thérèse',73
-7400,0,'Ste-Thérèse',74
-8001,0,'Pointe-Calumet',80
-8000,0,'St-Eustache',80
-8101,0,'Pointe-Calumet',81
-8100,0,'St-Eustache',81
-8801,0,'St-Eustache',88
-8800,0,'Ste-Thérèse',88
-8901,0,'Deux-Montagnes',89
-8900,0,'St-Eustache',89
-9001,0,'Deux-Montagnes',90
-9000,0,'St-Eustache',90
-9100,0,'St-Eustache',91
-9201,0,'Centre',92
-9301,0,'Deux-Montagnes',93
-9300,0,'St-Eustache',93
-10001,0,'Carrefour Du Nord',100
-10000,0,'Gare St-Jérôme',100
-10101,0,'Gare St-Jérôme',101
-10100,0,'St-Antoine',101
-10201,0,'Carrefour Du Nord',102
-10200,0,'Gare St-Jérôme',102
-10301,0,'Carrefour Du Nord',103
-10300,0,'Gare St-Jérôme',103
-10501,0,'Bellefeuille',105
-10500,0,'Gare St-Jérôme',105
-10701,0,'Bellefeuille',107
-10700,0,'Gare St-Jérôme',107
+2401,0,'Métro Cartier',24
+2400,0,'Ste-Anne-Des-Plaines',24
+2700,0,'Bois-Des-Filion / Via Lorraine',27
+2701,0,'Gare Ste-Thérèse',27
+2801,0,'Métro Cartier',28
+2800,0,'Terrebonne Ouest',28
+5101,0,'Boisbriand / Gare Ste-Thérèse',51
+5200,0,'Boisbriand / Gare Ste-Thérèse',52
+5900,0,'Boisbriand',59
+5901,0,'Métro Montmorency',59
+6001,0,'Gare Ste-Thérèse',60
+6000,0,'Ste-Thérèse / Domaine',60
+6100,0,'Gare Ste-Thérèse / Bas Ste-Thérè',61
+6201,0,'Gare Ste-Thérèse / Mille-Îles',62
+7100,0,'Gare Blainville / Via Céloron',71
+7200,0,'Gare Blainville / Via Notre-Dame',72
+7301,0,'Gare Ste-Thérèse / Fontainebleau',73
+7401,0,'Gare Ste-Thérèse / Via Renaissance',74
+8001,0,'Pointe-Calumet / Via 59e Avenue',80
+8000,0,'Terminus / St-Eustache',80
+8101,0,'Pointe-Calumet / Via Avenue Joseph',81
+8100,0,'Terminus / St-Eustache',81
+8800,0,'Cégep / Lionel-Groulx',88
+8801,0,'Terminus / St-Eustache',88
+8901,0,'Gare / Deux-Montagnes',89
+8900,0,'Terminus / St-Eustache',89
+9001,0,'Gare / Deux-Montagnes',90
+9000,0,'Terminus / St-Eustache',90
+9101,0,'Terminus / St-Eustache / Via 25e Avenue',91
+9200,0,'Terminus / St-Eustache / Via 25e Avenue',92
+9301,0,'Gare / Deux-Montagnes',93
+9300,0,'Terminus / St-Eustache',93
+10001,0,'Gare St-Jérôme',100
+10000,0,'Polyvalente / Carrefour Du Nord',100
+10100,0,'Gare St-Jérôme',101
+10101,0,'St-Antoine',101
+10201,0,'Gare St-Jérôme',102
+10200,0,'Lafontaine / Via Carrefour Du Nord',102
+10301,0,'Gare St-Jérôme',103
+10300,0,'Méga Centre / Carrefour Du Nord',103
+10500,0,'Bellefeuille Nord',105
+10501,0,'Gare St-Jérôme',105
+10700,0,'Carrefour Du Nord Via Grand-Héron',107
+10701,0,'Gare St-Jérôme',107
 40001,0,'Deux-Montagnes',400
 40000,0,'Montmorency',400

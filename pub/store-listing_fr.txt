@@ -7,12 +7,12 @@ Horaires. Nouvelles.
 What's new in this version?:
 Horaires du 23 mai 2018 au 23 juin 2018.
 Nouvelles de www.citl.qc.ca.
-Tweets de @RTM_Laurentides.
+Tweets de @exo_Laurentides.
 ----------
 Full description:
 Cette application ajoute les informations des autobus RTM (CIT) Laurentides à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @RTM_Laurentides sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @exo_Laurentides sur Twitter.
 
 Le RTM (CIT) Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 

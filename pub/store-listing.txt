@@ -7,12 +7,12 @@ Schedule. News.
 What's new in this version?:
 Schedule from May 23, 2018 to June 23, 2018.
 News from www.citl.qc.ca.
-Tweets from @RTM_Laurentides.
+Tweets from @exo_Laurentides.
 ----------
 Full description:
 This application adds RTM (CIT) Laurentides buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from www.citl.qc.ca and @RTM_Laurentides on Twitter.
+This app contains the buses schedule and the latest news from www.citl.qc.ca and @exo_Laurentides on Twitter.
 
 RTM (CIT) Laurentides serves Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme and Saint-Joseph-du-Lac.
 

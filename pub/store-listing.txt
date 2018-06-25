@@ -5,7 +5,7 @@ RTM (CIT) Laurentides buses for MonTransits
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 24, 2018 to August 18, 2018.
+Schedule from June 18, 2018 to August 18, 2018.
 News from www.citl.qc.ca.
 Tweets from @exo_Laurentides.
 ----------

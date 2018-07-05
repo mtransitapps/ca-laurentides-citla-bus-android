@@ -31,8 +31,8 @@ https://github.com/mtransitapps/ca-laurentides-citla-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Laurentides.
 
-exo Laurentides was formely know as RTM Laurentides sector and CIT Laurentides.
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo Laurentides was formerly known as RTM Laurentides sector and CIT Laurentides.
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news from www.citl.qc.ca and Twitter

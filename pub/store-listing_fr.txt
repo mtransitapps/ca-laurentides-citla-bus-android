@@ -1,7 +1,7 @@
-Title: Bus RTM (CIT) Laurentides - MonTran…
+Title: Bus exo Laurentides - MonTran…
 ----------
 Short description:
-Autobus RTM (CIT) Laurentides pour MonTransit.
+Autobus exo Laurentides pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
@@ -10,11 +10,11 @@ Nouvelles de www.citl.qc.ca.
 Tweets de @exo_Laurentides.
 ----------
 Full description:
-Cette application ajoute les informations des autobus RTM (CIT) Laurentides à MonTransit.
+Cette application ajoute les informations des autobus exo Laurentides à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @exo_Laurentides sur Twitter.
 
-Le RTM (CIT) Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
+exo Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -22,13 +22,16 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (AMT).
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
 https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-laurentides-citla-bus-android
 
-Cette application n'est pas associée à le Réseau de Transport Métropolitain (AMT) et RTM (CIT) Laurentides.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Laurentides.
+
+exo Laurentides était précédemment connu sous le nom de RTM Secteur Laurentides et CIT Laurentides.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles de www.citl.qc.ca et Twitter

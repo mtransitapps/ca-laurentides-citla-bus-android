@@ -5,6 +5,7 @@ Autobus exo Laurentides pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 18 juin 2018 au 18 août 2018.
 Nouvelles de www.citl.qc.ca.
 Tweets de @exo_Laurentides.

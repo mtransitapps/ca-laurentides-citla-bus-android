@@ -675,7 +675,7 @@
 81103,'81103','Prud''homme / Marronniers',45.584888,-73.932097
 81104,'81104','Prud''homme / Plaines',45.580584,-73.931204
 81105,'81105','Prud''homme / Léveillé',45.578537,-73.930618
-81106,'81106','Léveillé / René-Lévesque',45.577745,-73.93633
+81106,'81106','Léveillé / René-Lévesque',45.577774,-73.936182
 81107,'81107','Louis-Joseph-Rodrigue / René-Lévesque',45.57572,-73.935942
 81108,'81108','Louis-Joseph-Rodrigue / Spénard',45.576045,-73.931992
 81109,'81109','Louis-Joseph-Rodrigue / Louis-Joseph-Papineau',45.576877,-73.92749
@@ -697,7 +697,7 @@
 81128,'81128','St-Eustache / Cèdres',45.560144,-73.910568
 81129,'81129','St-Eustache / Picard',45.559318,-73.90617
 81130,'81130','St-Eustache / Sources',45.559388,-73.904096
-81131,'81131','Féré / Arthur-Sauvé',45.558949,-73.900824
+81131,'81131','St-Eustache / Féré',45.558949,-73.900824
 81132,'81132','St-Eustache / Moulin',45.558164,-73.896807
 81133,'81133','St-Eustache / Dorion',45.558555,-73.892811
 81134,'81134','St-Eustache / St-Nicolas',45.558188,-73.894849
@@ -793,7 +793,7 @@
 81269,'81269','Binette / Lavallée',45.577028,-73.904013
 81270,'81270','Dubois / Devant Le Civique #160',45.572638,-73.902294
 81271,'81271','Dubois / Devant Le Roi Du Camion',45.571843,-73.904607
-81276,'81276','Industriel / Daoust',45.571556,-73.917727
+81276,'81276','Daoust / Industriel',45.571358,-73.917786
 81279,'81279','St-Eustache / Docteur-Corriveau',45.561901,-73.914657
 81280,'81280','Pie-XII / Boileau',45.558757,-73.914826
 81281,'81281','Prud''homme / Filiatrault',45.581753,-73.931292
@@ -961,7 +961,7 @@
 82176,'82176','St-Charles / Chapleau',45.641836,-73.852674
 82177,'82177','St-Charles / Devant Le Civique #69',45.641141,-73.849404
 82178,'82178','St-Charles / Morris',45.640901,-73.845356
-82179,'82179','St-Charles / St-Stanislas',45.640915,-73.847037
+82179,'82179','St-Charles / St-Stanislas (1)',45.640915,-73.847037
 82180,'82180','St-Charles / Chapleau',45.641978,-73.852086
 82181,'82181','St-Charles / Mayer',45.642383,-73.85494
 82182,'82182','St-Charles / Côte-St-Louis Ouest',45.643754,-73.859408
@@ -1025,7 +1025,7 @@
 82271,'82271','Alfred-Laliberté / Vérendrye',45.637768,-73.859243
 82272,'82272','Vérendrye / Côte Sud',45.639286,-73.861241
 82273,'82273','Lionel-Bertrand / Devant Le Civique #1805',45.613322,-73.853602
-82277,'82277','Blainville Ouest / Sicard',45.639565,-73.854378
+82277,'82277','Blainville Ouest / Sicard',45.639605,-73.853522
 82278,'82278','Blainville Ouest / Ormes',45.638962,-73.849438
 82279,'82279','Blainville Ouest / Deschambault',45.639126,-73.846838
 82284,'82284','Mtée Sanche / Perron',45.629805,-73.82799
@@ -1199,7 +1199,7 @@
 82456,'82456','Roland-Durand / Rosemère',45.641042,-73.809472
 82457,'82457','Roland-Durand / Cardinal',45.642052,-73.807711
 82458,'82458','Roland-Durand / Jeanne-Mance',45.644844,-73.803696
-82459,'82459','Roland-Durand / Colibri',45.646113,-73.801834
+82459,'82459','Roland-Durand / Colibri (1)',45.646113,-73.801834
 82460,'82460','Roland-Durand / Lorraine',45.64722,-73.800359
 82461,'82461','Roland-Durand / Prés',45.648855,-73.79773
 82462,'82462','Roland-Durand / Roseraie',45.64905,-73.797022
@@ -1290,7 +1290,7 @@
 82549,'82549','Curé-Labelle / 70e Av. Ouest',45.674335,-73.881603
 82551,'82551','Curé-Labelle / 61e Av. Ouest',45.671333,-73.876901
 82552,'82552','Curé-Labelle / 54e Av. Ouest',45.668888,-73.873181
-82553,'82553','Curé-Labelle / 65e Av. Ouest',45.672999,-73.879492
+82553,'82553','Curé-Labelle / 68e Av. Ouest',45.673826,-73.880728
 82554,'82554','Curé-Labelle / Fleurs',45.665849,-73.86843
 82555,'82555','Curé-Labelle / 43e Av. Ouest',45.66363,-73.864992
 82556,'82556','Curé-Labelle / 36e Av. Ouest',45.660662,-73.860452
@@ -1348,16 +1348,16 @@
 82616,'82616','Curé-Labelle / Yvon-Berger',45.591719,-73.786974
 82617,'82617','Gare Rosemère',45.6334,-73.794551
 82618,'82618','Mtée Lesage / Lefrançois',45.651,-73.788076
-82619,'82619','Mtée Lesage / Pineridge',45.653209,-73.793324
+82619,'82619','Lesage / Pineridge',45.653209,-73.793324
 82620,'82620','Châteaux / Bas-De-Ste-Thérèse',45.65167,-73.802921
 82621,'82621','Bourbonne / Vignory',45.675104,-73.784818
 82628,'82628','Mtée Lesage / Place Lesage',45.652413,-73.790632
-82629,'82629','Mtée Lesage / Lefrançois',45.650981,-73.788464
+82629,'82629','Lesage / Lefrançois',45.650981,-73.788464
 82630,'82630','Mtée Lesage / Roland-Durand',45.650037,-73.78732
 82679,'82679','Grande-Allée / Ambroise-Lafortune',45.639849,-73.873877
 82681,'82681','Ambroise-Lafortune / Doris-Lussier',45.641101,-73.867635
 82682,'82682','Ambroise-Lafortune / Côte Sud',45.639635,-73.8617
-82685,'82685','Châteaux / Belvédère',45.658095,-73.804526
+82685,'82685','Châteaux / Belvédère (1)',45.658095,-73.804526
 82686,'82686','Châteaux / Ermitage',45.65939,-73.807527
 82687,'82687','Châteaux / Fontainebleau',45.660563,-73.809575
 82688,'82688','Fontainebleau / Alhambra',45.661271,-73.80871
@@ -1370,7 +1370,7 @@
 82695,'82695','Fontainebleau / Falaise',45.671504,-73.818523
 82696,'82696','Fontainebleau / Josselin',45.671458,-73.819634
 82697,'82697','Fontainebleau / Lindoso',45.670452,-73.822264
-82698,'82698','Fontainebleau / Rochefort',45.66863,-73.824874
+82698,'82698','Fontainebleau / Vitré',45.66863,-73.824874
 82699,'82699','Fontainebleau / Ambroise',45.66594,-73.826576
 82700,'82700','Fontainebleau / Rochefort',45.66452,-73.826499
 82701,'82701','Fontainebleau / Franchimont',45.663192,-73.825055
@@ -1424,7 +1424,7 @@
 82757,'82757','Bourbonne / Lachalade (1)',45.673401,-73.790425
 82758,'82758','Bourbonne / Norroy',45.674535,-73.788881
 82759,'82759','Palais / Cégep De St-Jérôme',45.778446,-74.000633
-82761,'82761','Chambord / Marsal',45.659906,-73.770183
+82761,'82761','Chambord / Marsal (2)',45.659906,-73.770183
 82762,'82762','Chambord / Orléans',45.661707,-73.769371
 82763,'82763','Orléans / Nancy',45.66312,-73.772394
 82764,'82764','Nancy / Saverne',45.661666,-73.776909
@@ -1505,7 +1505,7 @@
 82880,'82880','Vignobles / Bourgogne',45.656477,-73.784552
 82881,'82881','Vignobles / Charentes',45.657337,-73.785869
 82882,'82882','Vignobles / Ermitage',45.657414,-73.788892
-82883,'82883','Vignobles / Muscadet',45.65664,-73.788901
+82883,'82883','Vignobles / Muscadet (2)',45.65664,-73.788901
 82884,'82884','Vignobles / Sauvignon',45.655502,-73.787171
 82885,'82885','Vignobles / St-Émilion',45.654002,-73.784804
 82886,'82886','Vignobles / Lefrançois (2)',45.653661,-73.783912
@@ -1658,7 +1658,7 @@
 83143,'83143','Reims / Gaulle',45.66754,-73.783447
 83144,'83144','Gaulle / Reims',45.667296,-73.783242
 83145,'83145','Reims / Ronchamp',45.669932,-73.781674
-83146,'83146','Reims / Mousson',45.672087,-73.784387
+83146,'83146','Reims / Sarrebourg',45.672087,-73.784387
 83147,'83147','Reims / Vignory',45.672752,-73.785404
 83148,'83148','Vignobles / Lefrançois (1)',45.654612,-73.781639
 83151,'83151','Curé-Labelle / J.-A.-Bombardier',45.695716,-73.914643

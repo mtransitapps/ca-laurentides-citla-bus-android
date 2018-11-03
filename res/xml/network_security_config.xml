@@ -3,8 +3,7 @@
     <domain-config>
         <domain includeSubdomains="true">rtm.quebec</domain>
         <trust-anchors>
-            <certificates src="system" />
-            <certificates src="user" />
+            <certificates src="@raw/rss_custom_ssl_certificate" />
         </trust-anchors>
     </domain-config>
 </network-security-config>

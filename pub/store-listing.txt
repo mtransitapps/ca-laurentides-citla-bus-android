@@ -7,13 +7,13 @@ Schedule. News.
 What's new in this version?:
 (AMT/CIT => RTM => exo)
 Schedule from August 19, 2018 to January 12, 2019.
-News from www.citl.qc.ca.
+News from rtm.quebec.
 Tweets from @exo_Laurentides.
 ----------
 Full description:
 This application adds exo Laurentides buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from www.citl.qc.ca and @exo_Laurentides on Twitter.
+This app contains the buses schedule and the latest news from rtm.quebec and @exo_Laurentides on Twitter.
 
 exo Laurentides serves Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme and Saint-Joseph-du-Lac.
 
@@ -35,7 +35,7 @@ exo Laurentides was formerly known as RTM Laurentides sector and CIT Laurentides
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news from www.citl.qc.ca and Twitter
+- Other: required to read news from rtm.quebec and Twitter
 ----------
 Application type: Applications
 ----------

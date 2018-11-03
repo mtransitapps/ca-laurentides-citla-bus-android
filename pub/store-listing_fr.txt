@@ -7,13 +7,13 @@ Horaires. Nouvelles.
 What's new in this version?:
 (AMT/CIT => RTM => exo)
 Horaires du 19 août 2018 au 12 janvier 2019.
-Nouvelles de www.citl.qc.ca.
+Nouvelles de rtm.quebec.
 Tweets de @exo_Laurentides.
 ----------
 Full description:
 Cette application ajoute les informations des autobus exo Laurentides à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de www.citl.qc.ca et @exo_Laurentides sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de rtm.quebec et @exo_Laurentides sur Twitter.
 
 exo Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 
@@ -35,4 +35,4 @@ exo Laurentides était précédemment connu sous le nom de RTM Secteur Laurentid
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de www.citl.qc.ca et Twitter
+- Autres: requis pour lire les nouvelles de rtm.quebec et Twitter

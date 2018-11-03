@@ -2,8 +2,8 @@
 <network-security-config>
     <domain-config>
         <domain includeSubdomains="true">rtm.quebec</domain>
+        <trust-anchors>
+            <certificates src="@raw/rtm_quebec_ca"/>
+        </trust-anchors>
     </domain-config>
-    <trust-anchors>
-        <certificates src="@raw/rtm_quebec_ca"/>
-    </trust-anchors>
 </network-security-config>

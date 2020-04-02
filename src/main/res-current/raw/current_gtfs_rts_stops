@@ -14,8 +14,6 @@
 80012,'80012','Oka / Devant L''église St-Agapit',45.54044,-73.893805
 80013,'80013','Oka / 11e Av.',45.539941,-73.894525
 80014,'80014','8e Av. / Cedar',45.538809,-73.887887
-80015,'80015','Terminus Le Carref.',45.568721,-73.747368
-80016,'80016','Carref. / Terminus Le Carref.',45.569211,-73.748086
 80019,'80019','13e Av. / 38e Rue',45.51231,-73.962978
 80020,'80020','Oka / 14e Av.',45.537788,-73.896619
 80021,'80021','Oka / 16e Av.',45.536941,-73.898281
@@ -193,7 +191,6 @@
 80206,'80206','Oka / 5e Av.',45.532768,-73.918319
 80207,'80207','Oka / Mélèzes',45.532303,-73.924461
 80208,'80208','Oka / Promenades',45.529157,-73.934356
-80209,'80209','Moulin / St-Eustache',45.558388,-73.89683
 80211,'80211','Oka / 38e Av.',45.526607,-73.954326
 80212,'80212','Oka / Devant Le Civique #3489',45.521966,-73.967307
 80213,'80213','59e Av. / André-Soucy',45.493351,-73.982424
@@ -459,7 +456,6 @@
 80664,'80664','Brière / St-Joseph',45.773955,-74.009901
 80665,'80665','St-Joseph / St-Faustin',45.77435,-74.005527
 80671,'80671','Rosemère / Grande-Côte',45.634414,-73.794616
-80685,'80685','Jean-Baptiste-Rolland Est / Devant Le Quartier 50+',45.771113,-73.995141
 80686,'80686','Jean-Baptiste-Rolland Est / 20e Av.',45.769576,-73.995018
 80687,'80687','Jean-Baptiste-Rolland Est / Laurentides',45.765753,-73.997284
 80688,'80688','Jean-Baptiste-Rolland Ouest / Jean-Paul-Hogue',45.763361,-73.9987
@@ -994,15 +990,6 @@
 82143,'82143','Mtée Gagnon / Pommetiers',45.675595,-73.776105
 82144,'82144','Mtée Gagnon / Adrien-Éthier Sud',45.672217,-73.771296
 82145,'82145','Mtée Gagnon / Souvenir',45.669195,-73.767111
-82165,'82165','Plein-Air / Rallye',45.652513,-73.884678
-82166,'82166','Plein-Air / Biathlon',45.651739,-73.880421
-82167,'82167','Plein-Air / Escrime',45.65126,-73.879728
-82168,'82168','Plein-Air / Luge',45.650338,-73.878361
-82169,'82169','Plein-Air / Sports',45.649474,-73.876997
-82170,'82170','Plein-Air / Cyclisme',45.648557,-73.873804
-82171,'82171','Plein-Air / Place De L''Aviron',45.647567,-73.871754
-82172,'82172','Plein-Air / Place Du Canoë',45.646749,-73.870601
-82173,'82173','Plein-Air / Devant Le Pétro-Canada',45.645466,-73.868673
 82174,'82174','St-Charles / Sicard',45.643848,-73.860643
 82176,'82176','St-Charles / Chapleau',45.641836,-73.852674
 82177,'82177','St-Charles / Devant Le Civique #69',45.641141,-73.849404
@@ -1012,15 +999,6 @@
 82181,'82181','St-Charles / Mayer',45.642383,-73.85494
 82182,'82182','St-Charles / Côte-St-Louis Ouest',45.643754,-73.859408
 82183,'82183','St-Charles / Côteau',45.644994,-73.863458
-82184,'82184','Plein-Air / Pétro-Canada',45.645462,-73.86871
-82185,'82185','Plein-Air / Place Du Canoë',45.646704,-73.870307
-82186,'82186','Plein-Air / Place De L''Aviron',45.647568,-73.871691
-82187,'82187','Plein-Air / Cyclisme',45.648589,-73.873641
-82188,'82188','Plein-Air / Sports',45.649483,-73.876741
-82189,'82189','Plein-Air / Luge',45.650328,-73.878107
-82190,'82190','Plein-Air / Escrime',45.651273,-73.879493
-82191,'82191','Plein-Air / Biathlon',45.651735,-73.880234
-82192,'82192','Plein-Air / Rallye',45.652647,-73.884504
 82209,'82209','Turgeon / Beaudoin',45.630986,-73.8298
 82210,'82210','Mtée Sanche / Joly',45.628838,-73.826538
 82211,'82211','Mtée Sanche / Rose-Des-Cèdres',45.628315,-73.825775
@@ -1040,14 +1018,12 @@
 82227,'82227','Grande-Allée / Châteauneuf',45.616931,-73.841334
 82228,'82228','Grande-Allée / Carpentier',45.618685,-73.844294
 82229,'82229','Grande-Allée / Alexandre-Le-Grand',45.620109,-73.846246
-82230,'82230','Grande-Allée / Riv.-Cachée',45.623788,-73.851589
 82233,'82233','Riv.-Cachée / Bastille',45.618811,-73.858223
 82234,'82234','Riv.-Cachée / Renaissance',45.615713,-73.862347
 82235,'82235','Riv.-Cachée / Bériot',45.616581,-73.861504
 82236,'82236','Riv.-Cachée / Bastille',45.618481,-73.858379
 82237,'82237','Riv.-Cachée / Bourassa',45.619631,-73.856746
 82239,'82239','Riv.-Cachée / Grande-Allée',45.623433,-73.852005
-82240,'82240','Grande-Allée / Francs-Bourgeois',45.626488,-73.854742
 82241,'82241','Grande-Allée / Grandes-Tourelles',45.630576,-73.860481
 82242,'82242','Grande-Allée / Lavoisier',45.633322,-73.864467
 82243,'82243','Grande-Allée / Devant L''aréna De Boisbriand',45.613474,-73.838836
@@ -1076,9 +1052,6 @@
 82267,'82267','Curé-Boivin / Entreprises',45.625422,-73.833151
 82268,'82268','Entreprises / Galais',45.626252,-73.827855
 82269,'82269','Entreprises / Mtée Sanche',45.62751,-73.824539
-82270,'82270','Fayette Est / Alfred-Laliberté',45.637394,-73.867935
-82271,'82271','Alfred-Laliberté / Vérendrye',45.637768,-73.859243
-82272,'82272','Vérendrye / Côte Sud',45.639286,-73.861241
 82273,'82273','Lionel-Bertrand / Devant Le Civique #1805',45.613322,-73.853602
 82277,'82277','Blainville Ouest / Sicard',45.639604,-73.854392
 82278,'82278','Blainville Ouest / Ormes',45.638962,-73.849438
@@ -1141,15 +1114,6 @@
 82340,'82340','Côteau / Mille-Îles Est',45.650229,-73.856763
 82341,'82341','Côteau / Verschelden',45.64879,-73.858853
 82342,'82342','Mille-Îles Est / Côteau',45.650389,-73.857049
-82343,'82343','Blainville Est / Mainville',45.639006,-73.824961
-82344,'82344','Blainville Est / St-Pierre',45.639524,-73.823088
-82345,'82345','Blainville Est / Devant L''académie Ste-Thérèse',45.641212,-73.817723
-82346,'82346','Blainville Est / Devant Le Civique #463',45.642471,-73.814972
-82347,'82347','Bas-De-Ste-Thérèse / Valcourt',45.643628,-73.813607
-82348,'82348','Bas-De-Ste-Thérèse / Martin',45.645649,-73.811574
-82349,'82349','Bas-De-Ste-Thérèse / Lauréanne',45.647023,-73.810651
-82350,'82350','Bas-De-Ste-Thérèse / Raymond-Lapalice',45.648507,-73.809226
-82351,'82351','Bas-De-Ste-Thérèse / Renaissance',45.650375,-73.807762
 82352,'82352','Renaissance / Anita-Michel',45.651647,-73.810241
 82353,'82353','Renaissance / Nicolas-Manthet',45.652877,-73.811945
 82354,'82354','Renaissance / Jeanne-Bonfond',45.65355,-73.813847
@@ -1162,7 +1126,6 @@
 82361,'82361','Renaissance / Annecy',45.652935,-73.816045
 82362,'82362','Annecy / Dubreuil',45.651208,-73.816318
 82363,'82363','Annecy / Varennes',45.649414,-73.818482
-82364,'82364','Annecy / René-A.-Robert',45.645638,-73.819791
 82365,'82365','René-A.-Robert / #181',45.646234,-73.823211
 82366,'82366','Gaulle / Devant L''hôtel De Ville De Lorraine',45.658271,-73.77482
 82367,'82367','Curé-Labelle / Châtelier',45.64216,-73.832295
@@ -1314,7 +1277,6 @@
 82520,'82520','Laurentides / Devant Le Civique #1185',45.755145,-73.980769
 82521,'82521','Laurentides / Devant Le Civique #1150',45.754948,-73.981084
 82523,'82523','Grande-Allée / Châteauneuf',45.616987,-73.841802
-82524,'82524','Grande-Allée / Réal-Béland',45.630591,-73.861215
 82525,'82525','Mtée Sanche / Joly',45.628798,-73.826272
 82526,'82526','Laurentides / Devant Les Galeries Laurentides',45.763012,-73.993551
 82527,'82527','Laurentides / St-Antoine',45.760772,-73.989929
@@ -1448,7 +1410,6 @@
 82730,'82730','Renaissance / Riv.-Cachée',45.615692,-73.862124
 82731,'82731','Grande-Allée / Fayette Est',45.636503,-73.868948
 82732,'82732','Côteau / Mille-Îles Ouest',45.64783,-73.861067
-82733,'82733','Grande-Allée / Bourassa',45.626487,-73.85532
 82737,'82737','Gaulle / Val-D''Ajol',45.674334,-73.792672
 82738,'82738','Val-D''Ajol / Nogent',45.673636,-73.79423
 82739,'82739','Val-D''Ajol / Place De Champenoux',45.67059,-73.797594
@@ -1469,14 +1430,12 @@
 82754,'82754','Val-D''Ajol / Nogent',45.673249,-73.794214
 82755,'82755','Val-D''Ajol / Gaulle',45.674002,-73.79269
 82759,'82759','Palais / Cégep De St-Jérôme',45.778446,-74.000633
-82760,'82760','Grand-Prix / Silverstone',45.644288,-73.878005
 82761,'82761','Chambord / Châtenay',45.659906,-73.770183
 82762,'82762','Chambord / Orléans',45.661707,-73.769371
 82763,'82763','Orléans / Nancy',45.66312,-73.772394
 82764,'82764','Nancy / Saverne',45.661666,-73.776909
 82765,'82765','Nancy / Gaulle',45.66061,-73.77836
 82766,'82766','Grande-Côte / Pinot',45.649749,-73.777677
-82767,'82767','Grand-Prix / Nevers',45.646609,-73.880672
 82768,'82768','Mtée Lesage / Northcote',45.6488,-73.785245
 82769,'82769','Northcote / Melrose',45.647504,-73.788707
 82770,'82770','Northcote / Poplar',45.647613,-73.79043
@@ -1488,7 +1447,6 @@
 82776,'82776','Northcote / Bertrand',45.641637,-73.80042
 82777,'82777','Northcote / Montview',45.640417,-73.799913
 82778,'82778','Northcote / Cedar',45.638884,-73.799996
-82779,'82779','Grand-Prix / Indianapolis',45.648551,-73.882553
 82780,'82780','Cedar / Pine',45.636948,-73.797116
 82781,'82781','Cedar / Northcote',45.638697,-73.79987
 82782,'82782','Northcote / Montview',45.640395,-73.799555
@@ -1503,10 +1461,8 @@
 82791,'82791','Northcote / Mtée Lesage',45.648533,-73.785072
 82792,'82792','Mtée Lesage / Roland-Durand',45.649942,-73.786562
 82804,'82804','Roland-Durand / Lande',45.639004,-73.811802
-82806,'82806','Grand-Prix / Mans',45.647895,-73.882387
 82807,'82807','Mtée Sanche / Mélèzes',45.62327,-73.818244
 82808,'82808','Mtée Sanche / Mélèzes',45.623257,-73.817866
-82809,'82809','Grand-Prix / Nevers',45.646609,-73.880728
 82810,'82810','Curé-Labelle / #1420',45.691491,-73.908314
 82811,'82811','Cèdres / Neuville-En-Ferrain',45.768634,-73.812294
 82812,'82812','Cèdres / Beaupré',45.769666,-73.810925
@@ -1539,8 +1495,6 @@
 82859,'82859','Duquet / Ducharme',45.645494,-73.843236
 82860,'82860','Duquet / Séminaire',45.643497,-73.84068
 82862,'82862','Mtée Sanche / Perron',45.629716,-73.827623
-82863,'82863','Grand-Prix / Biathlon',45.649845,-73.884428
-82866,'82866','Biathlon / Grand-Prix',45.64983,-73.884171
 82867,'82867','Côte De Terrebonne / Fidèle',45.676016,-73.745294
 82868,'82868','Côte De Terrebonne / 4e Av.',45.67519,-73.747549
 82869,'82869','Lefrançois / Externat Sacré-Coeur',45.652117,-73.786673
@@ -1588,9 +1542,6 @@
 82922,'82922','Domaine / Marceau',45.646886,-73.82642
 82923,'82923','René-A.-Robert / Devant Le Civique #181',45.645934,-73.823396
 82924,'82924','René-A.-Robert / Annecy',45.64548,-73.820244
-82925,'82925','René-A.-Robert / Blainville Est',45.642103,-73.816753
-82926,'82926','Valcourt / Bernières',45.64468,-73.814708
-82927,'82927','Valcourt / Annecy',45.647206,-73.818525
 82928,'82928','Annecy / Varennes',45.649237,-73.818183
 82929,'82929','Annecy / Dubreuil',45.650884,-73.816287
 82930,'82930','Annecy / Renaissance',45.652969,-73.815644
@@ -1607,39 +1558,24 @@
 82941,'82941','Bas-De-Ste-Thérèse / René-A.-Robert',45.642148,-73.816294
 82942,'82942','René-A.-Robert / Rona',45.642811,-73.816887
 82943,'82943','René-A.-Robert / Annecy',45.645468,-73.819648
-82945,'82945','Grand-Prix / Silverstone',45.644409,-73.878073
 82946,'82946','Côte-St-Louis Est / Lotus',45.65836,-73.844025
 82947,'82947','Côte-St-Louis Est / Lotus',45.658752,-73.844525
-82948,'82948','Grande-Allée / Bougainville',45.627989,-73.85751
 82949,'82949','Grande-Allée / Montcalm',45.62799,-73.856734
 82950,'82950','Duquet / Chanoine-Lionel-Groulx',45.642406,-73.839017
-82951,'82951','Dubois / Sénécal',45.637546,-73.835593
-82953,'82953','Duquet / Beauchamp',45.641701,-73.838063
-82954,'82954','Sénécal / Dubois',45.637821,-73.83555
 82956,'82956','Curé-Labelle / Devant Le Civique #35',45.640309,-73.829593
-82959,'82959','Sénécal / Blainville Est',45.63888,-73.835797
 82960,'82960','Grande-Côte / Hubert-Aquin',45.600925,-73.837835
 82961,'82961','Grande-Côte / Hubert-Aquin',45.601172,-73.837856
 82962,'82962','Mtée Gagnon / Armand-Bombardier',45.680678,-73.784068
 82963,'82963','Mtée Gagnon / Armand-Bombardier',45.680597,-73.783632
 82964,'82964','Grande-Côte / Constant',45.611692,-73.82929
-82982,'82982','Dagenais / Blainville Est',45.639127,-73.835967
 82987,'82987','Desjardins Ouest / Turgeon',45.632885,-73.832767
-82988,'82988','Dubois / Turgeon',45.637369,-73.83865
 82993,'82993','Mtée Gagnon / Marie-Josée',45.695399,-73.805854
-82997,'82997','Grande-Allée / Grandes-Tourelles',45.624478,-73.85231
-82998,'82998','Grande-Allée / Grandes-Tourelles',45.624441,-73.85273
 83000,'83000','Grande-Allée / Côte Sud',45.638865,-73.873131
 83001,'83001','Grande-Allée / Fayette Ouest',45.636455,-73.869677
 83002,'83002','Grande-Allée / Lavoisier',45.633169,-73.865043
-83003,'83003','Voie D''accès Curé-Boivin / Grande-Côte',45.615679,-73.819003
-83004,'83004','Grande-Allée / Côte Sud',45.638491,-73.872015
 83005,'83005','Blainville Ouest / Roussy',45.63915,-73.848849
 83006,'83006','Blainville Ouest / Sicard',45.639779,-73.853684
 83007,'83007','Côte Sud / Ambroise-Lafortune',45.639544,-73.861197
-83008,'83008','Vérendrye / Alfred-Laliberté',45.637945,-73.859357
-83009,'83009','Alfred-Laliberté / Fayette Est',45.637517,-73.867829
-83010,'83010','Fayette Est / Grande-Allée',45.636661,-73.869269
 83011,'83011','Florian / Willowdale',45.632182,-73.799194
 83012,'83012','Pacific / Lacas',45.636796,-73.803378
 83013,'83013','Lacas / Rosemère',45.638133,-73.803181
@@ -1721,7 +1657,6 @@
 83152,'83152','Grande-Côte / Bellerive',45.652244,-73.774224
 83153,'83153','Grande-Côte / Bellerive',45.652366,-73.774215
 83154,'83154','Bas-De-Ste-Thérèse / Devant L''école Montessori',45.65188,-73.799011
-83155,'83155','Blainville Est / Ouimet',45.640408,-73.819151
 83156,'83156','Cèdres / Saisons',45.761085,-73.823527
 83157,'83157','Cèdres / Therrien',45.762414,-73.821274
 83165,'83165','Cèdres / Guénette',45.768279,-73.800316
@@ -1760,7 +1695,6 @@
 83225,'83225','Blainville Ouest / Deschambault',45.639352,-73.846635
 83226,'83226','Arthur-Sauvé / Grignon',45.570818,-73.911453
 83227,'83227','Curé-Labelle / Boisé À De La Paix',45.739975,-73.970923
-83228,'83228','Curé-Labelle / Paix À Du Boisé',45.732344,-73.964706
 83229,'83229','Mtée Gagnon / Institut Archambault À Rang Lepage',45.741678,-73.825447
 83230,'83230','Mtée Gagnon / Rang Lepage À St-Roch',45.723738,-73.823017
 83231,'83231','Côte-St-Louis Est / Mtée Gagnon À Paul-Albert',45.691583,-73.81708
@@ -1781,8 +1715,6 @@
 83367,'83367','Erabliere / Peupliers',45.681024,-73.776376
 83393,'83393','Lefrançois / Vignobles (1)',45.653554,-73.783683
 83414,'83414','Longuyon / Gaulle',45.677854,-73.792567
-83425,'83425','Grande-Allé / Côte-Nord',45.642285,-73.877482
-83426,'83426','Grande-Allée / Côte-Nord',45.643345,-73.878714
 83705,'83705','Laurentides / St-Martin Est',45.581762,-73.704863
 83706,'83706','Laurentides / St-Martin Ouest',45.582176,-73.706212
 83707,'83707','Laurentides / Ste-Rose',45.630315,-73.752255

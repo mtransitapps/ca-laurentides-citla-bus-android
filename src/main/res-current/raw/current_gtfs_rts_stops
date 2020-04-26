@@ -1,4 +1,5 @@
 76142,'76142','Terminus Centre-Ville Porte 13',45.498142,-73.565918
+76288,'76288','Terminus Mansfield Quai 2',45.498401,-73.56419
 80000,'80000','Arthur-Sauvé / Hémond',45.561037,-73.898719
 80001,'80001','Féré / Latour',45.556113,-73.898242
 80002,'80002','Féré / Plateau',45.554767,-73.896413
@@ -267,8 +268,8 @@
 80459,'80459','Lajeunesse Ouest / Laviolette',45.789768,-74.010867
 80460,'80460','Lajeunesse Ouest / Grignon',45.789835,-74.012554
 80461,'80461','Grignon / Lauzon',45.791163,-74.01345
-80462,'80462','Monseigneur-Dubois / Devant Le Carref. Du Nord',45.791147,-74.017696
-80463,'80463','Monseigneur-Dubois / Lajeunesse Ouest',45.78885,-74.018939
+80462,'80462','Monseigneur-Dubois / Devant Le Carref. Du Nord',45.791161,-74.017703
+80463,'80463','Monseigneur-Dubois / Lajeunesse Ouest',45.788848,-74.018886
 80464,'80464','Lajeunesse Ouest / Industrie',45.78725,-74.021051
 80476,'80476','Lajeunesse Ouest / Industrie',45.786832,-74.021635
 80478,'80478','Monseigneur-Dubois / Grignon',45.792629,-74.01476
@@ -593,9 +594,9 @@
 80951,'80951','Schulz / Maçon',45.800849,-73.996321
 80952,'80952','Industrie / Baron',45.792769,-74.022063
 80953,'80953','Industrie / Baron',45.792629,-74.021722
-80974,'80974','Laurentides / Devant Le Harvey''s',45.765243,-73.996834
-80975,'80975','Laurentides / Devant Le Civique #481',45.763345,-73.993475
-80976,'80976','Laurentides / Devant Le McDonald''s',45.764922,-73.996056
+80974,'80974','Laurentides / Devant Le Harvey''s',45.765165,-73.996862
+80975,'80975','Laurentides / Devant Le Civique #481',45.763244,-73.993532
+80976,'80976','Laurentides / Devant Le McDonald''s',45.764885,-73.996115
 80978,'80978','St-Georges / Devant Le Civique #25',45.768558,-74.000733
 80979,'80979','St-Georges / St-Jovite',45.770307,-74.001477
 80980,'80980','St-Georges / St-Faustin',45.770925,-74.001967
@@ -1360,7 +1361,7 @@
 82614,'82614','Curé-Labelle / Renaissance',45.601863,-73.789772
 82615,'82615','Curé-Labelle / Drapeau',45.595386,-73.787966
 82616,'82616','Curé-Labelle / Yvon-Berger',45.591209,-73.786906
-82617,'82617','Gare Rosemère',45.633525,-73.795207
+82617,'82617','Gare Rosemère',45.633528,-73.795258
 82618,'82618','Mtée Lesage / Lefrançois',45.651,-73.788076
 82619,'82619','Mtée Lesage / Pineridge',45.653209,-73.793324
 82620,'82620','Châteaux / Bas-De-Ste-Thérèse',45.65167,-73.802921
@@ -1693,7 +1694,7 @@
 83223,'83223','Mtée Gagnon / Versailles',45.693441,-73.802934
 83224,'83224','Mtée Gagnon / Versailles',45.693478,-73.803317
 83225,'83225','Blainville Ouest / Deschambault',45.639352,-73.846635
-83226,'83226','Arthur-Sauvé / Grignon',45.570818,-73.911453
+83226,'83226','Arthur-Sauvé / Grignon',45.570802,-73.911484
 83227,'83227','Curé-Labelle / Boisé À De La Paix',45.739975,-73.970923
 83229,'83229','Mtée Gagnon / Institut Archambault À Rang Lepage',45.741678,-73.825447
 83230,'83230','Mtée Gagnon / Rang Lepage À St-Roch',45.723738,-73.823017

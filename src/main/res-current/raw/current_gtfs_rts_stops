@@ -15,6 +15,8 @@
 80012,'80012','Oka / Devant L''église St-Agapit',45.54044,-73.893805
 80013,'80013','Oka / 11e Av.',45.539941,-73.894525
 80014,'80014','8e Av. / Cedar',45.538809,-73.887887
+80015,'80015','Terminus Le Carref.',45.568721,-73.747368
+80016,'80016','Carref. / Terminus Le Carref.',45.569211,-73.748086
 80019,'80019','13e Av. / 38e Rue',45.51231,-73.962978
 80020,'80020','Oka / 14e Av.',45.537788,-73.896619
 80021,'80021','Oka / 16e Av.',45.536941,-73.898281
@@ -192,6 +194,7 @@
 80206,'80206','Oka / 5e Av.',45.532768,-73.918319
 80207,'80207','Oka / Mélèzes',45.532303,-73.924461
 80208,'80208','Oka / Promenades',45.529157,-73.934356
+80209,'80209','Moulin / St-Eustache',45.558388,-73.89683
 80211,'80211','Oka / 38e Av.',45.526607,-73.954326
 80212,'80212','Oka / Devant Le Civique #3489',45.521966,-73.967307
 80213,'80213','59e Av. / André-Soucy',45.493351,-73.982424
@@ -457,6 +460,7 @@
 80664,'80664','Brière / St-Joseph',45.773955,-74.009901
 80665,'80665','St-Joseph / St-Faustin',45.77435,-74.005527
 80671,'80671','Rosemère / Grande-Côte',45.634414,-73.794616
+80685,'80685','Jean-Baptiste-Rolland Est / Devant Le Quartier 50+',45.771112,-73.995141
 80686,'80686','Jean-Baptiste-Rolland Est / 20e Av.',45.769576,-73.995018
 80689,'80689','J-B-Rolland E / Dr-Charles-Léonard',45.763104,-74.001027
 80690,'80690','Jean-Baptiste-Rolland Ouest / Louis-Jolliet',45.761891,-74.010175
@@ -1078,6 +1082,9 @@
 82267,'82267','Curé-Boivin / Entreprises',45.625422,-73.833151
 82268,'82268','Entreprises / Galais',45.626252,-73.827855
 82269,'82269','Entreprises / Mtée Sanche',45.62751,-73.824539
+82270,'82270','Fayette Est / Alfred-Laliberté',45.637394,-73.867935
+82271,'82271','Alfred-Laliberté / Vérendrye',45.637768,-73.859243
+82272,'82272','Vérendrye / Côte Sud',45.639286,-73.861241
 82273,'82273','Lionel-Bertrand / Devant Le Civique #1805',45.613322,-73.853602
 82277,'82277','Blainville Ouest / Sicard',45.639604,-73.854392
 82278,'82278','Blainville Ouest / Ormes',45.638962,-73.849438
@@ -1140,8 +1147,15 @@
 82340,'82340','Côteau / Mille-Îles Est',45.650229,-73.856763
 82341,'82341','Côteau / Verschelden',45.64879,-73.858853
 82342,'82342','Mille-Îles Est / Côteau',45.650389,-73.857049
+82343,'82343','Blainville Est / Mainville',45.639006,-73.824961
+82344,'82344','Blainville Est / St-Pierre',45.639524,-73.823088
+82345,'82345','Blainville Est / Devant L''académie Ste-Thérèse',45.641212,-73.817723
 82346,'82346','Blainville Est / Devant Le Civique #463',45.642471,-73.814972
 82347,'82347','Bas-De-Ste-Thérèse / Valcourt',45.643628,-73.813607
+82348,'82348','Bas-De-Ste-Thérèse / Martin',45.645649,-73.811574
+82349,'82349','Bas-De-Ste-Thérèse / Lauréanne',45.647023,-73.810651
+82350,'82350','Bas-De-Ste-Thérèse / Raymond-Lapalice',45.648507,-73.809226
+82351,'82351','Bas-De-Ste-Thérèse / Renaissance',45.650375,-73.807762
 82352,'82352','Renaissance / Anita-Michel',45.651647,-73.810241
 82353,'82353','Renaissance / Nicolas-Manthet',45.652877,-73.811945
 82354,'82354','Renaissance / Jeanne-Bonfond',45.65355,-73.813847
@@ -1154,6 +1168,7 @@
 82361,'82361','Renaissance / Annecy',45.652935,-73.816045
 82362,'82362','Annecy / Dubreuil',45.651208,-73.816318
 82363,'82363','Annecy / Varennes',45.649414,-73.818482
+82364,'82364','Annecy / René-A.-Robert',45.645638,-73.819791
 82365,'82365','René-A.-Robert / #181',45.646234,-73.823211
 82366,'82366','Gaulle / Devant L''hôtel De Ville De Lorraine',45.658271,-73.77482
 82367,'82367','Curé-Labelle / Châtelier',45.64216,-73.832295
@@ -1607,12 +1622,15 @@
 82948,'82948','Grande-Allée / Bougainville',45.627989,-73.85751
 82949,'82949','Grande-Allée / Montcalm',45.62799,-73.856734
 82950,'82950','Duquet / Chanoine-Lionel-Groulx',45.642406,-73.839017
+82953,'82953','Duquet / Beauchamp',45.641701,-73.838063
+82954,'82954','Sénécal / Dubois',45.637821,-73.83555
 82956,'82956','Curé-Labelle / Devant Le Civique #35',45.640309,-73.829593
 82960,'82960','Grande-Côte / Hubert-Aquin',45.600925,-73.837835
 82961,'82961','Grande-Côte / Hubert-Aquin',45.601172,-73.837856
 82962,'82962','Mtée Gagnon / Armand-Bombardier',45.680678,-73.784068
 82963,'82963','Mtée Gagnon / Armand-Bombardier',45.680597,-73.783632
 82964,'82964','Grande-Côte / Constant',45.611692,-73.82929
+82982,'82982','Dagenais / Blainville Est',45.639127,-73.835967
 82987,'82987','Desjardins Ouest / Turgeon',45.632885,-73.832767
 82988,'82988','Dubois / Turgeon',45.637369,-73.83865
 82993,'82993','Mtée Gagnon / Marie-Josée',45.695399,-73.805854
@@ -1626,6 +1644,9 @@
 83005,'83005','Blainville Ouest / Roussy',45.63915,-73.848849
 83006,'83006','Blainville Ouest / Sicard',45.639779,-73.853684
 83007,'83007','Côte Sud / Ambroise-Lafortune',45.639544,-73.861197
+83008,'83008','Vérendrye / Alfred-Laliberté',45.637945,-73.859357
+83009,'83009','Alfred-Laliberté / Fayette Est',45.637517,-73.867829
+83010,'83010','Fayette Est / Grande-Allée',45.636661,-73.869269
 83011,'83011','Florian / Willowdale',45.632182,-73.799194
 83012,'83012','Pacific / Lacas',45.636796,-73.803378
 83013,'83013','Lacas / Rosemère',45.638133,-73.803181
@@ -1708,6 +1729,7 @@
 83152,'83152','Grande-Côte / Bellerive',45.652244,-73.774224
 83153,'83153','Grande-Côte / Bellerive',45.652366,-73.774215
 83154,'83154','Bas-De-Ste-Thérèse / Devant L''école Montessori',45.65188,-73.799011
+83155,'83155','Blainville Est / Ouimet',45.640408,-73.819151
 83156,'83156','Cèdres / Saisons',45.761085,-73.823527
 83157,'83157','Cèdres / Therrien',45.762414,-73.821274
 83165,'83165','Cèdres / Guénette',45.768279,-73.800316
@@ -1746,6 +1768,7 @@
 83225,'83225','Blainville Ouest / Deschambault',45.639352,-73.846635
 83226,'83226','Arthur-Sauvé / Grignon',45.570802,-73.911484
 83227,'83227','Curé-Labelle / Boisé À De La Paix',45.739975,-73.970923
+83228,'83228','Curé-Labelle / Paix À Du Boisé',45.732344,-73.964706
 83229,'83229','Mtée Gagnon / Institut Archambault À Rang Lepage',45.741678,-73.825447
 83230,'83230','Mtée Gagnon / Rang Lepage À St-Roch',45.723738,-73.823017
 83231,'83231','Côte-St-Louis Est / Mtée Gagnon À Paul-Albert',45.691583,-73.81708
@@ -1761,8 +1784,8 @@
 83258,'83258','Ste-Anne / Devant Le Civique #19',45.751988,-73.822816
 83272,'83272','Northcote / Rosemère',45.637993,-73.801482
 83273,'83273','Lionel-Bertrand / Devant Le Civique #1755',45.618842,-73.852313
-83276,'83276','Côte St-Louis / Legault',45.672534,-73.843482
-83277,'83277','Côte St-Louis / Legault',45.672744,-73.843571
+83276,'83276','Côte St-Louis / Legault',45.673415,-73.843021
+83277,'83277','Côte St-Louis / Legault',45.673632,-73.84308
 83367,'83367','Erabliere / Peupliers',45.681024,-73.776376
 83393,'83393','Lefrançois / Vignobles (1)',45.653554,-73.783683
 83414,'83414','Longuyon / Gaulle',45.677854,-73.792567

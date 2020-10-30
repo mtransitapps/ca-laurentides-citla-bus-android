@@ -8,11 +8,11 @@
 1201,0,'Gare Rosemère',12
 1500,0,'Gare Rosemère',15
 1501,0,'Rosemère / Via Du Parc',15
-1701,0,'Gare Rosemère',17
 1700,0,'Rosemère / Lefrancois / Terrebonne',17
+1701,0,'Rosemère / Via Du Parc',17
 2001,0,'Gare Rosemère',20
 2000,0,'Lorraine / Terrebonne Ouest',20
-2200,0,'Bois-Des-Filion / Via Georges Iv',22
+2200,0,'Bois-Des-Filion / Via Georges IV',22
 2201,0,'Gare Ste-Thérèse',22
 2301,0,'Gare Ste-Thérèse',23
 2300,0,'Ste-Anne-Des-Plaines',23
@@ -53,7 +53,7 @@
 10100,0,'Gare St-Jérôme',101
 10101,0,'St-Antoine',101
 10201,0,'Gare St-Jérôme',102
-10200,0,'Lafontaine / Via Carref. Du Nord',102
+10200,0,'St-Antoine',102
 10301,0,'Gare St-Jérôme',103
 10300,0,'Méga Centre / Carref. Du Nord',103
 10500,0,'Bellefeuille Nord',105

@@ -1,17 +1,17 @@
 Cette application ajoute les informations des autobus exo Laurentides à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de rtm.quebec et @exo_Laurentides sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de exo.quebec et @exo_Laurentides sur Twitter.
 
 exo Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
-Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play https://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
 Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
-https://rtm.quebec/fr/a-propos/donnees-ouvertes
+https://exo.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-laurentides-citla-bus-android
@@ -22,4 +22,4 @@ exo Laurentides était précédemment connu sous le nom de RTM Secteur Laurentid
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de rtm.quebec et Twitter
+- Autres: requis pour lire les nouvelles de exo.quebec et Twitter

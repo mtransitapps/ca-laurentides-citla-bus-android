@@ -1,2 +1,1 @@
-exo Laurentides buses for MonTransits
-Schedule. News.
+exo Laurentides buses for MonTransits. Schedule. News.

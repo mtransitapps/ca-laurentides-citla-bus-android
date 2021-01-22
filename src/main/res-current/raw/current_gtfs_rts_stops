@@ -12,7 +12,7 @@
 80009,'80009','Guy / 8e Av',45.547518,-73.9005
 80010,'80010','Oka / 9e Av',45.541094,-73.893333
 80011,'80011','8e Av / Henri-Dunant',45.544392,-73.89653
-80012,'80012','Oka / Devant L''église St-Agapit',45.54044,-73.893805
+80012,'80012','Oka / Devant L''Église St-Agapit',45.54044,-73.893805
 80013,'80013','Oka / 11e Av',45.539941,-73.894525
 80014,'80014','8e Av / Cedar',45.538809,-73.887887
 80015,'80015','Terminus Le Carref',45.568721,-73.747368
@@ -132,7 +132,7 @@
 80140,'80140','Promenades / Devant La Banque Nationale',45.540716,-73.922301
 80141,'80141','Promenades / Bénédictines',45.539563,-73.923688
 80142,'80142','Promenades / Pins',45.538682,-73.926258
-80143,'80143','Promenades / Devant L''école Liberté-Jeunesse',45.535652,-73.928292
+80143,'80143','Promenades / Devant L''École Liberté-Jeunesse',45.535652,-73.928292
 80144,'80144','Promenades / Prucheraie',45.532521,-73.932102
 80145,'80145','Promenades / Golf',45.530068,-73.933312
 80146,'80146','20e Av / Montclair',45.539343,-73.907989
@@ -242,7 +242,7 @@
 80403,'80403','Curé-Labelle / 104e Av',45.798279,-74.010421
 80404,'80404','Labelle / Ste-Paule',45.793192,-74.008513
 80405,'80405','Labelle / Aubry',45.791458,-74.00778
-80406,'80406','Labelle / Devant L''église De Ste-Paule',45.789316,-74.006193
+80406,'80406','Labelle / Devant L''Église De Ste-Paule',45.789316,-74.006193
 80407,'80407','Labelle / Léopold-Nantel',45.784302,-74.002687
 80408,'80408','Labelle / Place Du Curé-Labelle',45.778888,-74.003766
 80409,'80409','Palais / Cégep De St-Jérôme',45.77822,-74.000408
@@ -262,7 +262,7 @@
 80435,'80435','Laurentides / St-Antoine',45.760646,-73.989374
 80436,'80436','Laurentides / Devant Le Civique #801',45.759514,-73.987544
 80440,'80440','Melançon / Marché Public De St-Jérôme',45.776239,-73.9973
-80441,'80441','Melançon / Devant L''aréna Melançon',45.779441,-73.996634
+80441,'80441','Melançon / Devant L''Aréna Melançon',45.779441,-73.996634
 80442,'80442','René-Gascon / Chapleau',45.780406,-73.994282
 80443,'80443','René-Gascon / Domaine',45.780163,-73.992498
 80444,'80444','René-Gascon / Madeleine',45.779717,-73.988824
@@ -404,7 +404,7 @@
 80599,'80599','Maurice / Rodrigue',45.797028,-74.001647
 80600,'80600','Maurice / Raphaël',45.799222,-74.003739
 80601,'80601','Maurice / 106e Av',45.800584,-74.00491
-80602,'80602','Maurice / Devant L''académie Lafontaine',45.803085,-74.007331
+80602,'80602','Maurice / Devant L''Académie Lafontaine',45.803085,-74.007331
 80603,'80603','Maurice / Lafontaine',45.80432,-74.008393
 80604,'80604','Maurice / 112e Av',45.805772,-74.009789
 80605,'80605','Maurice / 113e Av',45.806743,-74.010645
@@ -612,14 +612,14 @@
 80955,'80955','Allée Du Golf / 246',45.55882,-73.930617
 80956,'80956','Poirier / 212',45.558259,-73.92578
 80957,'80957','Poirier / 209',45.5581,-73.92571
-80974,'80974','Laurentides / Devant Le Harvey''s',45.765165,-73.996862
+80974,'80974','Laurentides / Devant Le Harvey''S',45.765165,-73.996862
 80975,'80975','Laurentides / Devant Le Civique #481',45.763244,-73.993532
-80976,'80976','Laurentides / Devant Le McDonald''s',45.764885,-73.996115
+80976,'80976','Laurentides / Devant Le McDonald''S',45.764885,-73.996115
 80978,'80978','St-Georges / Devant Le Civique #25',45.768558,-74.000733
 80979,'80979','St-Georges / St-Jovite',45.770307,-74.001477
 80980,'80980','St-Georges / St-Faustin',45.770925,-74.001967
 80981,'80981','St-Georges / Montigny',45.768241,-74.001157
-80987,'80987','Montigny / Devant L''hôpital De St-Jérôme',45.766494,-73.998799
+80987,'80987','Montigny / Devant L''Hôpital De St-Jérôme',45.766494,-73.998799
 81000,'81000','Terminus St-Eustache',45.561459,-73.892856
 81001,'81001','Arthur-Sauvé / Devant Le Terminus St-Eustache',45.561712,-73.893208
 81004,'81004','Arthur-Sauvé / Champagne',45.561493,-73.89572
@@ -665,7 +665,7 @@
 81048,'81048','St-Laurent / Gravel',45.574385,-73.877106
 81049,'81049','St-Laurent / 25e Av',45.575184,-73.875508
 81050,'81050','25e Av / Lamarche',45.573538,-73.872981
-81051,'81051','25e Av / Devant L''école Terre-Des-Jeunes',45.571695,-73.871123
+81051,'81051','25e Av / Devant L''École Terre-Des-Jeunes',45.571695,-73.871123
 81052,'81052','Grande-Côte / 26e Av',45.570642,-73.869248
 81053,'81053','St-Eustache / Yves',45.562479,-73.915747
 81054,'81054','St-Eustache / Yves',45.562584,-73.916223
@@ -697,9 +697,9 @@
 81082,'81082','Louis-Joseph-Rodrigue / René-Lévesque',45.575737,-73.935477
 81083,'81083','René-Lévesque / Léveillé',45.577642,-73.936189
 81084,'81084','Léveillé / Spénard',45.57809,-73.932625
-81085,'81085','Léveillé / Prud''homme',45.578362,-73.930652
-81086,'81086','Prud''homme / Plaines',45.580425,-73.931007
-81087,'81087','Prud''homme / Érables',45.584742,-73.932121
+81085,'81085','Léveillé / Prud''Homme',45.578362,-73.930652
+81086,'81086','Prud''Homme / Plaines',45.580425,-73.931007
+81087,'81087','Prud''Homme / Érables',45.584742,-73.932121
 81088,'81088','Érables / Sapins',45.583981,-73.927961
 81089,'81089','Érables / Léveillé',45.580642,-73.925401
 81090,'81090','Arthur-Sauvé / Léveillé',45.581835,-73.922482
@@ -711,9 +711,9 @@
 81100,'81100','Léveillé / Arthur-Sauvé',45.581946,-73.922179
 81101,'81101','Léveillé / Érables',45.580656,-73.92518
 81102,'81102','Érables / Sapins',45.583979,-73.927571
-81103,'81103','Prud''homme / Marronniers',45.584186,-73.93214
-81104,'81104','Prud''homme / Plaines',45.580584,-73.931204
-81105,'81105','Prud''homme / Léveillé',45.578537,-73.930618
+81103,'81103','Prud''Homme / Marronniers',45.584186,-73.93214
+81104,'81104','Prud''Homme / Plaines',45.580584,-73.931204
+81105,'81105','Prud''Homme / Léveillé',45.578537,-73.930618
 81106,'81106','Léveillé / René-Lévesque',45.577774,-73.936182
 81107,'81107','Louis-Joseph-Rodrigue / René-Lévesque',45.57572,-73.935942
 81108,'81108','Louis-Joseph-Rodrigue / Spénard',45.576045,-73.931992
@@ -835,14 +835,14 @@
 81276,'81276','Industriel / #14',45.572126,-73.916713
 81279,'81279','St-Eustache / Docteur-Corriveau',45.561901,-73.914657
 81280,'81280','Pie-XII / Boileau',45.558757,-73.914826
-81281,'81281','Prud''homme / Filiatrault',45.581753,-73.931292
+81281,'81281','Prud''Homme / Filiatrault',45.581753,-73.931292
 81282,'81282','Érables / Tilleuls',45.582006,-73.925748
-81283,'81283','Arthur-Sauvé / Devant L''hôpital St-Eustache',45.572118,-73.91272
+81283,'81283','Arthur-Sauvé / Devant L''Hôpital St-Eustache',45.572118,-73.91272
 81284,'81284','Arthur-Sauvé / Pie-XII',45.564401,-73.905134
 81285,'81285','Arthur-Sauvé / Féré',45.561308,-73.901608
 81286,'81286','Arthur-Sauvé / Féré',45.561424,-73.901209
 81287,'81287','Érables / Tilleuls',45.581862,-73.925556
-81288,'81288','Prud''homme / Filiatrault',45.581925,-73.931538
+81288,'81288','Prud''Homme / Filiatrault',45.581925,-73.931538
 81289,'81289','Léveillé / Spénard',45.578246,-73.93235
 81290,'81290','Louis-Joseph-Rodrigue / Timothée-Kimber',45.576305,-73.930073
 81292,'81292','Constantin / Chênes',45.568481,-73.905046
@@ -906,7 +906,7 @@
 82024,'82024','Grande-Côte / Devant La Gare Rosemère',45.63357,-73.794636
 82025,'82025','Grande-Côte / Corona',45.63128,-73.795713
 82026,'82026','Grande-Côte / Remembrance',45.629792,-73.797028
-82027,'82027','Grande-Côte / Devant L''école Val-Des-Ormes',45.628279,-73.798861
+82027,'82027','Grande-Côte / Devant L''École Val-Des-Ormes',45.628279,-73.798861
 82028,'82028','Grande-Côte / Hertel',45.625303,-73.801856
 82029,'82029','Labelle / Grande-Côte',45.624434,-73.803085
 82030,'82030','Labelle / Bourbonnière',45.627891,-73.808251
@@ -1072,7 +1072,7 @@
 82240,'82240','Grande-Allée / Francs-Bourgeois',45.626488,-73.854742
 82241,'82241','Grande-Allée / Grandes-Tourelles',45.630576,-73.860481
 82242,'82242','Grande-Allée / Lavoisier',45.633322,-73.864467
-82243,'82243','Grande-Allée / Devant L''aréna De Boisbriand',45.613474,-73.838836
+82243,'82243','Grande-Allée / Devant L''Aréna De Boisbriand',45.613474,-73.838836
 82244,'82244','Grande-Allée / Cartier',45.611112,-73.839056
 82245,'82245','Grande-Allée / Champfleury',45.609068,-73.837503
 82246,'82246','Grande-Allée / Champlain',45.607609,-73.834815
@@ -1165,7 +1165,7 @@
 82342,'82342','Mille-Îles Est / Côteau',45.650389,-73.857049
 82343,'82343','Blainville Est / Mainville',45.639006,-73.824961
 82344,'82344','Blainville Est / St-Pierre',45.639524,-73.823088
-82345,'82345','Blainville Est / Devant L''académie Ste-Thérèse',45.641212,-73.817723
+82345,'82345','Blainville Est / Devant L''Académie Ste-Thérèse',45.641212,-73.817723
 82346,'82346','Blainville Est / Devant Le Civique #463',45.642471,-73.814972
 82347,'82347','Bas-De-Ste-Thérèse / Valcourt',45.643628,-73.813607
 82348,'82348','Bas-De-Ste-Thérèse / Martin',45.645649,-73.811574
@@ -1186,7 +1186,7 @@
 82363,'82363','Annecy / Varennes',45.649414,-73.818482
 82364,'82364','Annecy / René-A-Robert',45.645638,-73.819791
 82365,'82365','René-A-Robert / #181',45.646234,-73.823211
-82366,'82366','Gaulle / Devant L''hôtel De Ville De Lorraine',45.658271,-73.77482
+82366,'82366','Gaulle / Devant L''Hôtel De Ville De Lorraine',45.658271,-73.77482
 82367,'82367','Curé-Labelle / Châtelier',45.64216,-73.832295
 82368,'82368','Grande-Côte / Labelle',45.623463,-73.803322
 82369,'82369','Grande-Côte / Westgate',45.621465,-73.806431
@@ -1576,7 +1576,7 @@
 82884,'82884','Vignobles / Sauvignon',45.655502,-73.787171
 82885,'82885','Vignobles / St-Émilion',45.654002,-73.784804
 82886,'82886','Vignobles / Lefrançois (2)',45.653661,-73.783912
-82887,'82887','Lefrançois / Devant L''externat Sacré-Coeur',45.652155,-73.786721
+82887,'82887','Lefrançois / Devant L''Externat Sacré-Coeur',45.652155,-73.786721
 82893,'82893','Côte-St-Louis Est / Gatineau',45.662714,-73.843938
 82894,'82894','Côte-St-Louis Est / Gatineau',45.662943,-73.84428
 82895,'82895','Parc / Hamilton',45.627645,-73.810201
@@ -1647,7 +1647,7 @@
 83000,'83000','Grande-Allée / Côte Sud',45.638865,-73.873131
 83001,'83001','Grande-Allée / Fayette Ouest',45.636455,-73.869677
 83002,'83002','Grande-Allée / Lavoisier',45.633169,-73.865043
-83003,'83003','Voie D''accès Curé-Boivin / Grande-Côte',45.615679,-73.819003
+83003,'83003','Voie D''Accès Curé-Boivin / Grande-Côte',45.615679,-73.819003
 83004,'83004','Grande-Allée / Côte Sud',45.638491,-73.872015
 83005,'83005','Blainville Ouest / Roussy',45.63915,-73.848849
 83006,'83006','Blainville Ouest / Sicard',45.639779,-73.853684
@@ -1736,7 +1736,7 @@
 83151,'83151','Curé-Labelle / J-A-Bombardier',45.695716,-73.914643
 83152,'83152','Grande-Côte / Bellerive',45.652244,-73.774224
 83153,'83153','Grande-Côte / Bellerive',45.652366,-73.774215
-83154,'83154','Bas-De-Ste-Thérèse / Devant L''école Montessori',45.65188,-73.799011
+83154,'83154','Bas-De-Ste-Thérèse / Devant L''École Montessori',45.65188,-73.799011
 83155,'83155','Blainville Est / Ouimet',45.640408,-73.819151
 83156,'83156','Cèdres / Saisons',45.761085,-73.823527
 83157,'83157','Cèdres / Therrien',45.762414,-73.821274

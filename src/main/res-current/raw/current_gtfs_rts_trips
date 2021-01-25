@@ -1,5 +1,5 @@
 801,0,'Métro Montmorency',8
-800,0,'Terminus St-Eustache',8
+800,0,'Term St-Eustache',8
 900,0,'Lafontaine',9
 901,0,'Métro Montmorency',9
 1100,0,'Gare Ste-Thérèse',11
@@ -35,19 +35,19 @@
 7301,0,'Gare Ste-Thérèse / Fontainebleau',73
 7401,0,'Gare Ste-Thérèse',74
 8001,0,'Pointe-Calumet',80
-8000,0,'Terminus St-Eustache',80
+8000,0,'Term St-Eustache',80
 8101,0,'Pointe-Calumet',81
-8100,0,'Terminus St-Eustache',81
+8100,0,'Term St-Eustache',81
 8800,0,'Cégep Lionel-Groulx',88
-8801,0,'Terminus St-Eustache',88
+8801,0,'Term St-Eustache',88
 8901,0,'Gare Deux-Montagnes',89
-8900,0,'Terminus St-Eustache',89
+8900,0,'Term St-Eustache',89
 9001,0,'Gare Deux-Montagnes',90
-9000,0,'Terminus St-Eustache',90
-9101,0,'Terminus St-Eustache',91
-9200,0,'Terminus St-Eustache',92
+9000,0,'Term St-Eustache',90
+9101,0,'Term St-Eustache',91
+9200,0,'Term St-Eustache',92
 9301,0,'Gare Deux-Montagnes',93
-9300,0,'Terminus St-Eustache',93
+9300,0,'Term St-Eustache',93
 10000,0,'Carref Du Nord',100
 10001,0,'Gare St-Jérôme',100
 10100,0,'Gare St-Jérôme',101
@@ -67,8 +67,8 @@
 49701,0,'Collège Beaubois / Ste-Marcelline',497
 49700,0,'Deux-Montagnes',497
 49801,0,'Montréal Centre-Ville',498
-49800,0,'Terminus St-Eustache',498
+49800,0,'Term St-Eustache',498
 49900,0,'Gare Deux-Montagnes',499
-49901,0,'Terminus Côte-Vertu',499
+49901,0,'Term Côte-Vertu',499
 2002101,0,'Institut Archambeault',20021
 2002100,0,'Mtée Gagnon',20021

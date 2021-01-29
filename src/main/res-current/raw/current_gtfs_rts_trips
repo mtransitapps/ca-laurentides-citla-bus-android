@@ -34,9 +34,9 @@
 7200,0,'Gare Blainville',72
 7301,0,'Gare Ste-Thérèse / Fontainebleau',73
 7401,0,'Gare Ste-Thérèse',74
-8001,0,'Pointe-Calumet',80
+8001,0,'Pte-Calumet',80
 8000,0,'Term St-Eustache',80
-8101,0,'Pointe-Calumet',81
+8101,0,'Pte-Calumet',81
 8100,0,'Term St-Eustache',81
 8800,0,'Cégep Lionel-Groulx',88
 8801,0,'Term St-Eustache',88
@@ -61,12 +61,12 @@
 10700,0,'Carref Du Nord',107
 10701,0,'Gare St-Jérôme',107
 40400,0,'Gare Grand-Moulin',404
-40401,0,'Montréal Centre-Ville',404
+40401,0,'Montréal Ctr-Ville',404
 49600,0,'Gare Grand-Moulin',496
 49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
 49701,0,'Collège Beaubois / Ste-Marcelline',497
 49700,0,'Deux-Montagnes',497
-49801,0,'Montréal Centre-Ville',498
+49801,0,'Montréal Ctr-Ville',498
 49800,0,'Term St-Eustache',498
 49900,0,'Gare Deux-Montagnes',499
 49901,0,'Term Côte-Vertu',499

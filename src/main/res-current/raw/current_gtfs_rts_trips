@@ -11,7 +11,7 @@
 1700,0,'Gare Rosemère',17
 1701,0,'Terrebonne',17
 2001,0,'Gare Rosemère',20
-2000,0,'Lorraine / Terrebonne Ouest',20
+2000,0,'Lorraine / Terrebonne O',20
 2200,0,'Bois-Des-Filion',22
 2201,0,'Gare Ste-Thérèse',22
 2301,0,'Gare Ste-Thérèse',23
@@ -21,15 +21,15 @@
 2700,0,'Bois-Des-Filion',27
 2701,0,'Gare Ste-Thérèse',27
 2801,0,'Métro Cartier',28
-2800,0,'Terrebonne Ouest',28
+2800,0,'Terrebonne O',28
 5101,0,'Boisbriand / Gare Ste-Thérèse',51
 5200,0,'Boisbriand / Gare Ste-Thérèse',52
 5900,0,'Boisbriand / Mirabel',59
 5901,0,'Métro Montmorency',59
 6001,0,'Gare Ste-Thérèse',60
 6000,0,'Ste-Thérèse / Domaine',60
-6100,0,'Gare Ste-Thérèse / Bas-Ste-Thérèse',61
-6201,0,'Gare Ste-Thérèse / Mille-Îles',62
+6100,0,'Gare Ste-Thérèse / Sect Bas-Ste-Thérèse',61
+6201,0,'Gare Ste-Thérèse / Sect Mille-Îles',62
 7100,0,'Gare Blainville',71
 7200,0,'Gare Blainville',72
 7301,0,'Gare Ste-Thérèse / Fontainebleau',73
@@ -48,17 +48,17 @@
 9200,0,'Term St-Eustache',92
 9301,0,'Gare Deux-Montagnes',93
 9300,0,'Term St-Eustache',93
-10000,0,'Carref Du Nord',100
+10000,0,'Carref Du N',100
 10001,0,'Gare St-Jérôme',100
 10100,0,'Gare St-Jérôme',101
 10101,0,'St-Antoine',101
 10201,0,'Gare St-Jérôme',102
 10200,0,'St-Antoine',102
-10300,0,'Carref Du Nord',103
+10300,0,'Carref Du N',103
 10301,0,'Gare St-Jérôme',103
-10500,0,'Bellefeuille Nord',105
+10500,0,'Bellefeuille N',105
 10501,0,'Gare St-Jérôme',105
-10700,0,'Carref Du Nord',107
+10700,0,'Carref Du N',107
 10701,0,'Gare St-Jérôme',107
 40400,0,'Gare Grand-Moulin',404
 40401,0,'Montréal Ctr-Ville',404

@@ -470,10 +470,10 @@
 80697,'80697','5e Rue / Galeries Des Laurentides',45.763841,-73.996199
 80698,'80698','5e Rue / Jean-Paul-Hogue',45.76273,-73.998038
 80705,'80705','John-F-Kennedy / Super 8',45.761591,-74.022833
-80706,'80706','John-F-Kennedy / Mtée St-Nicolas',45.769195,-74.022755
+80706,'80706','John-F-Kennedy / Mtée St-Nicolas',45.769276,-74.023917
 80707,'80707','Mtée St-Nicolas / Roland-Godard',45.768938,-74.027748
 80719,'80719','St-Joseph / Labelle',45.774752,-74.004027
-80732,'80732','Mtée St-Nicolas / John-F-Kennedy',45.769215,-74.02303
+80732,'80732','Mtée St-Nicolas / John-F-Kennedy',45.769152,-74.023827
 80733,'80733','John-F-Kennedy / Lamontagne',45.760679,-74.023087
 80745,'80745','Grand-Héron / Valmont',45.758982,-74.018304
 80746,'80746','Grand-Héron / Wal-Mart',45.760653,-74.016736
@@ -1051,7 +1051,7 @@
 82229,'82229','Grande-Allée / Alexandre-Le-Grand',45.620109,-73.846246
 82230,'82230','Grande-Allée / Riv-Cachée',45.623788,-73.851589
 82233,'82233','Riv-Cachée / Bastille',45.618811,-73.858223
-82234,'82234','Riv-Cachée / Renaissance',45.615713,-73.862347
+82234,'82234','Riv-Cachée / Renaissance',45.615665,-73.862532
 82235,'82235','Riv-Cachée / Bériot',45.616581,-73.861504
 82236,'82236','Riv-Cachée / Bastille',45.618481,-73.858379
 82237,'82237','Riv-Cachée / Bourassa',45.619631,-73.856746
@@ -1391,7 +1391,7 @@
 82602,'82602','Mtée Gagnon / Savoie',45.692118,-73.801272
 82603,'82603','Bouthillier / Canadian Tire',45.628536,-73.822887
 82604,'82604','Bouthillier / Pharmaprix',45.628084,-73.818716
-82605,'82605','Bouthillier / Baie',45.630357,-73.815157
+82605,'82605','Bouthillier / Baie',45.629302,-73.816876
 82606,'82606','Bouthillier / La Baie',45.629825,-73.816473
 82611,'82611','Curé-Labelle / Ste-Rose',45.610493,-73.792164
 82612,'82612','Curé-Labelle / Cloutier',45.608391,-73.791524
@@ -1587,7 +1587,7 @@
 82921,'82921','Domaine / Polyvalente Ste-Thérèse',45.648244,-73.827669
 82922,'82922','Domaine / Marceau',45.646886,-73.82642
 82923,'82923','René-A-Robert / #181',45.645934,-73.823396
-82924,'82924','René-A-Robert / Annecy',45.64548,-73.820244
+82924,'82924','René-A-Robert / Annecy',45.645784,-73.820807
 82925,'82925','René-A-Robert / Blainville Est',45.642103,-73.816753
 82926,'82926','Valcourt / Bernières',45.64468,-73.814708
 82927,'82927','Valcourt / Annecy',45.647206,-73.818525
@@ -1768,8 +1768,8 @@
 83232,'83232','Côte-St-Louis Est / Paul-Albert À Mtée Gagnon',45.684207,-73.829262
 83233,'83233','Mtée Gagnon / St-Roch À Rang Lepage',45.699875,-73.812849
 83234,'83234','Mtée Gagnon / Rang Lepage À Institut Archambault',45.734555,-73.822974
-83235,'83235','St-Roch / Diane À Camus SUR DEMANDE',45.700753,-73.797626
-83236,'83236','St-Roch / Camus À Diane SUR DEMANDE',45.700998,-73.797661
+83235,'83235','St-Roch / Diane À Camus SUR DEMANDE',45.700929,-73.797653
+83236,'83236','St-Roch / Camus À Diane SUR DEMANDE',45.700803,-73.797632
 83237,'83237','Curé-Boivin / Provencher À Des Entreprises',45.622828,-73.828963
 83238,'83238','Curé-Boivin / Entreprises À Provencher',45.622476,-73.82901
 83256,'83256','Céloron / Georges-Hériot',45.69647,-73.909146
@@ -1793,7 +1793,7 @@
 83731,'83731','Laurentides / Pl Vimont',45.597982,-73.722955
 83732,'83732','Laurentides / Pl Vimont',45.598113,-73.723439
 83990,'83990','Gare Ste-Dorothée (Av Des Bois)',45.526028,-73.861813
-83991,'83991','Term Côte-Vertu (Q:22)',45.513517,-73.683311
+83991,'83991','Term Côte-Vertu',45.515464,-73.684772
 84035,'84035','Guy / David',45.703074,-73.803756
 84036,'84036','Guy / Milan',45.705791,-73.804444
 84037,'84037','Milan / Bigras',45.705563,-73.807732

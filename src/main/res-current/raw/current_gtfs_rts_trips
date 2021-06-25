@@ -8,8 +8,8 @@
 1201,0,'Gare Rosemère',12
 1500,0,'Gare Rosemère',15
 1501,0,'Rosemère',15
-1700,0,'Gare Rosemère',17
-1701,0,'Terrebonne',17
+1701,0,'Gare Rosemère',17
+1700,0,'Terrebonne',17
 2001,0,'Gare Rosemère',20
 2000,0,'Lorraine / Terrebonne O',20
 2200,0,'Bois-Des-Filion',22
@@ -64,8 +64,6 @@
 40401,0,'Montréal Ctr-Ville',404
 49600,0,'Deux-Montagnes / Église St-Agapit',496
 49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
-49701,0,'Collège Beaubois / Ste-Marcelline',497
-49700,0,'Deux-Montagnes',497
 49801,0,'Montréal Ctr-Ville',498
 49800,0,'Term St-Eustache',498
 49900,0,'Gare Deux-Montagnes',499

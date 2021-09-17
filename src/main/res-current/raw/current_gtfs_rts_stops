@@ -897,7 +897,7 @@
 82030,'82030','Labelle / Bourbonnière',45.627891,-73.808251
 82031,'82031','Labelle / Bouthillier',45.631477,-73.813622
 82032,'82032','Labelle / Pl Rosemère',45.632453,-73.815346
-82033,'82033','Desjardins Est / Vaudry (1)',45.634986,-73.822636
+82033,'82033','Desjardins Est / Vaudry (1)',45.634784,-73.822723
 82034,'82034','Desjardins Est / St-Jacques Est',45.63506,-73.826086
 82035,'82035','Gare Ste-Thérèse',45.635784,-73.834747
 82036,'82036','Desjardins Est / St-Jacques Est',45.634821,-73.826292
@@ -1775,6 +1775,7 @@
 83258,'83258','Ste-Anne / #19',45.751988,-73.822816
 83272,'83272','Northcote / Rosemère',45.637993,-73.801482
 83273,'83273','Lionel-Bertrand / #1755',45.618842,-73.852313
+83275,'83275','Cégep Régional De Lanaudière À Terrebonne',45.722102,-73.705523
 83276,'83276','Côte St-Louis / Legault',45.673415,-73.843021
 83277,'83277','Côte St-Louis / Legault',45.673632,-73.84308
 83367,'83367','Erabliere / Peupliers',45.681024,-73.776376

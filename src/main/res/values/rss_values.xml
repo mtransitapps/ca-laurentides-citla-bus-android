@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">2</integer>
+    <integer name="rss_db_version">3</integer>
     <string name="rss_authority">org.mtransit.android.ca_laurentides_citla_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
@@ -11,6 +11,11 @@
         <item>https://exo.quebec/rss?projection=1568</item>
         <item>https://exo.quebec/rss?projection=1773</item>
         <item>https://exo.quebec/rss?projection=1973</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
+        <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>exo (Avis à la clientèle)</item>

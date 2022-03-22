@@ -438,7 +438,7 @@
 80643,'80643','Lajeunesse Ouest / Pl Raymond',45.789222,-74.016617
 80644,'80644','Lajeunesse Ouest / Grignon',45.78962,-74.012742
 80645,'80645','Monseigneur-Dubois / Bourassa',45.78776,-74.018592
-80646,'80646','Monseigneur-Dubois / Calixa-Lavallée',45.785646,-74.018345
+80646,'80646','Monseigneur-Dubois / Calixa-Lavallée',45.78595,-74.018317
 80647,'80647','Monseigneur-Dubois / Brunet',45.78298,-74.018056
 80648,'80648','Monseigneur-Dubois / Paré',45.781545,-74.016925
 80649,'80649','Paré / Bellevue',45.781615,-74.015674
@@ -700,14 +700,14 @@
 81093,'81093','Arthur-Sauvé / Ind',45.573871,-73.914421
 81097,'81097','Arthur-Sauvé / Ind',45.573893,-73.914155
 81099,'81099','Arthur-Sauvé / Wal-Mart',45.578506,-73.918768
-81100,'81100','Léveillé / Arthur-Sauvé',45.581946,-73.922179
+81100,'81100','Léveillé / Arthur-Sauvé',45.581783,-73.922907
 81101,'81101','Léveillé / Érables',45.580656,-73.92518
 81102,'81102','Érables / Sapins',45.583979,-73.927571
 81103,'81103','Prud''Homme / Marronniers',45.584186,-73.93214
 81104,'81104','Prud''Homme / Plaines',45.580584,-73.931204
 81105,'81105','Prud''Homme / Léveillé',45.578537,-73.930618
 81106,'81106','Léveillé / René-Lévesque',45.577774,-73.936182
-81107,'81107','Louis-Joseph-Rodrigue / René-Lévesque',45.57572,-73.935942
+81107,'81107','Louis-Joseph-Rodrigue / René-Lévesque',45.575626,-73.935315
 81108,'81108','Louis-Joseph-Rodrigue / Spénard',45.576045,-73.931992
 81109,'81109','Louis-Joseph-Rodrigue / Louis-Joseph-Papineau',45.576877,-73.92749
 81110,'81110','Louis-Joseph-Papineau / Joseph-Dubé',45.574484,-73.926587
@@ -1159,7 +1159,7 @@
 82214,'82214','Mtée Sanche / Piette',45.622686,-73.817319
 82215,'82215','Mtée Sanche / Pelletier',45.61996,-73.813247
 82216,'82216','Grande-Côte / 3e Av',45.618446,-73.814406
-82217,'82217','Grande-Côte / 6e Av',45.616831,-73.817067
+82217,'82217','Grande-Côte / 6e Av',45.616814,-73.817038
 82218,'82218','Grande-Côte / Île-Morris',45.614146,-73.822054
 82219,'82219','Grande-Côte / Carignan',45.613272,-73.823821
 82220,'82220','Grande-Côte / Châteauneuf',45.612664,-73.826817
@@ -1187,7 +1187,7 @@
 82245,'82245','Grande-Allée / Champfleury',45.609068,-73.837503
 82246,'82246','Grande-Allée / Champlain',45.607609,-73.834815
 82247,'82247','Grande-Côte / Grande-Allée',45.607289,-73.833659
-82248,'82248','Grande-Côte / Île-De-Mai',45.610669,-73.830347
+82248,'82248','Grande-Côte / Île-De-Mai',45.611179,-73.829674
 82249,'82249','Grande-Côte / Châteauneuf',45.612361,-73.827083
 82250,'82250','Grande-Côte / Carignan',45.613099,-73.823803
 82251,'82251','Grande-Côte / Île-Morris',45.614016,-73.822095
@@ -1318,7 +1318,7 @@
 82385,'82385','Grande-Côte / 37e Av',45.57492,-73.86368
 82386,'82386','Grande-Côte / 34e Av',45.573718,-73.865197
 82387,'82387','Grande-Côte / 31e Av',45.572387,-73.866928
-82388,'82388','Grande-Côte / 25e Av',45.57041,-73.869788
+82388,'82388','Grande-Côte / 25e Av',45.57052,-73.869717
 82389,'82389','Grande-Côte / 21e Av',45.568404,-73.872718
 82390,'82390','Grande-Côte / 18e Av',45.56721,-73.874494
 82391,'82391','Grande-Côte / 15e Av',45.566225,-73.875947
@@ -1376,7 +1376,7 @@
 82448,'82448','Roland-Durand / Lorraine',45.647374,-73.800505
 82449,'82449','Roland-Durand / Colibri',45.646265,-73.80203
 82450,'82450','Roland-Durand / Jeanne-Mance',45.645039,-73.803581
-82451,'82451','Roland-Durand / Roitelets',45.641679,-73.808731
+82451,'82451','Roland-Durand / Roitelets',45.642856,-73.806786
 82452,'82452','Roland-Durand / Rosemère',45.641067,-73.809737
 82453,'82453','Roland-Durand / Bosquet',45.640023,-73.810798
 82454,'82454','Roland-Durand / Harnois',45.639037,-73.811685
@@ -1858,7 +1858,7 @@
 83108,'83108','Ambroise-Lafortune / Doris-Lussier',45.641264,-73.867382
 83109,'83109','Ambroise-Lafortune / Grande-Allée',45.640159,-73.87404
 83110,'83110','Grandes-Tourelles / Complexe Sportif',45.632027,-73.85917
-83111,'83111','Grandes-Tourelles / 3625',45.632641,-73.853361
+83111,'83111','Grandes-Tourelles / #3625',45.632641,-73.853361
 83112,'83112','Grandes-Tourelles / Costco',45.631288,-73.851193
 83113,'83113','Grandes-Tourelles / St-Antoine',45.629318,-73.848231
 83114,'83114','Grandes-Tourelles / St-Honoré',45.627682,-73.848118

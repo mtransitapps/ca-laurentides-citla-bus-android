@@ -1,6 +1,6 @@
 This application adds exo Laurentides buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from exo.quebec and @exo_Laurentides on Twitter.
+This app contains the buses schedule and the latest news from exo.quebec and @exo_Nord on Twitter.
 
 exo Laurentides serves Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme and Saint-Joseph-du-Lac.
 

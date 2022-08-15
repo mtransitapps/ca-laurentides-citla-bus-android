@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Laurentides à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de exo.quebec et @exo_Nord sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de exo.quebec, @allo_exo et @exo_Nord sur Twitter.
 
 exo Laurentides dessert Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme et Saint-Joseph-du-Lac.
 

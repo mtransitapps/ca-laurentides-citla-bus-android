@@ -1,0 +1,102 @@
+801,0,'Métro Montmorency',8
+800,0,'Term St-Eustache',8
+900,0,'Lafontaine',9
+901,0,'Métro Montmorency',9
+1100,0,'Gare Ste-Thérèse',11
+1101,0,'Laval',11
+1200,0,'Bois-Des-Filion',12
+1201,0,'Gare Rosemère',12
+1500,0,'Gare Rosemère',15
+1501,0,'Rosemère',15
+1701,0,'Gare Rosemère',17
+1700,0,'Terrebonne',17
+2001,0,'Gare Rosemère',20
+2000,0,'Lorraine / Terrebonne O',20
+2200,0,'Bois-Des-Filion',22
+2201,0,'Gare Ste-Thérèse',22
+2301,0,'Gare Ste-Thérèse',23
+2300,0,'Ste-Anne-Des-Plaines',23
+2401,0,'Métro Cartier',24
+2400,0,'Ste-Anne-Des-Plaines',24
+2700,0,'Bois-Des-Filion',27
+2701,0,'Gare Ste-Thérèse',27
+2801,0,'Métro Cartier',28
+2800,0,'Terrebonne O',28
+5101,0,'Boisbriand / Gare Ste-Thérèse',51
+5200,0,'Boisbriand / Gare Ste-Thérèse',52
+5900,0,'Boisbriand / Mirabel',59
+5901,0,'Métro Montmorency',59
+6001,0,'Gare Ste-Thérèse',60
+6000,0,'Ste-Thérèse / Domaine',60
+6100,0,'Gare Ste-Thérèse / Sect Bas-Ste-Thérèse',61
+6201,0,'Gare Ste-Thérèse / Sect Mille-Îles',62
+7100,0,'Gare Blainville',71
+7200,0,'Gare Blainville',72
+7301,0,'Gare Ste-Thérèse / Fontainebleau',73
+7401,0,'Gare Ste-Thérèse',74
+8001,0,'St-Eustache / Pte-Calumet',80
+8101,0,'St-Eustache / Pte-Calumet',81
+8800,0,'Cégep Lionel-Groulx',88
+8801,0,'Term St-Eustache',88
+8901,0,'Gare Deux-Montagnes',89
+8900,0,'Term St-Eustache',89
+9001,0,'Gare Deux-Montagnes',90
+9000,0,'Term St-Eustache',90
+9101,0,'Term St-Eustache',91
+9200,0,'Term St-Eustache',92
+9301,0,'Gare Deux-Montagnes',93
+9300,0,'Term St-Eustache',93
+10000,0,'Carref Du N',100
+10001,0,'Gare St-Jérôme',100
+10100,0,'Gare St-Jérôme',101
+10101,0,'St-Antoine',101
+10201,0,'Gare St-Jérôme',102
+10200,0,'St-Antoine',102
+10300,0,'Méga Ctr / Carref Du N',103
+10301,0,'Méga Ctr / Gare St-Jérôme',103
+10500,0,'Bellefeuille N',105
+10501,0,'Gare St-Jérôme',105
+10700,0,'Carref Du N',107
+10701,0,'Gare St-Jérôme',107
+40400,0,'Deux-Montagnes',404
+40401,0,'Montréal Ctr-Ville',404
+49600,0,'Gare Deux-Montagnes',496
+49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
+49801,0,'Montréal Ctr-Ville',498
+49800,0,'Term St-Eustache',498
+49900,0,'Gare Deux-Montagnes',499
+49901,0,'Term Côte-Vertu',499
+74400,0,'St-Eustache',744
+74401,0,'St-Placide',744
+90401,0,'Gare Deux-Montagnes<>Grand-Moulin',904
+2000001200,0,'Bois-Des-Filion',20000012
+2000001201,0,'Gare Rosemère',20000012
+2000001500,0,'Gare Rosemère',20000015
+2000001501,0,'Rosemère',20000015
+2000001701,0,'Gare Rosemère',20000017
+2000001700,0,'Terrebonne',20000017
+2000002001,0,'Gare Rosemère',20000020
+2000002000,0,'Lorraine / Terrebonne O',20000020
+2000002101,0,'Institut Archambeault',20000021
+2000002100,0,'Mtée Gagnon',20000021
+2000002301,0,'Gare Ste-Thérèse',20000023
+2000002300,0,'Ste-Anne-Des-Plaines',20000023
+2000002501,0,'Ste-Anne-Des-Plaines',20000025
+2000002500,0,'Terrebonne',20000025
+2000005300,0,'Boisbriand / Gare Ste-Thérèse',20000053
+2000006000,0,'Ste-Thérèse / Domaine',20000060
+2000007100,0,'Gare Blainville',20000071
+2000007200,0,'Gare Blainville',20000072
+2000007401,0,'Gare Ste-Thérèse',20000074
+2000010000,0,'Carref Du N',20000100
+2000010001,0,'Gare St-Jérôme',20000100
+2000010100,0,'Gare St-Jérôme',20000101
+2000010101,0,'St-Antoine',20000101
+2000010201,0,'Gare St-Jérôme',20000102
+2000010200,0,'St-Antoine',20000102
+2000010300,0,'Méga Ctr / Carref Du N',20000103
+2000010301,0,'Méga Ctr / Gare St-Jérôme',20000103
+2000010500,0,'Bellefeuille N',20000105
+2000010501,0,'Gare St-Jérôme',20000105
+2000010700,0,'Carref Du N',20000107
+2000010701,0,'Gare St-Jérôme',20000107

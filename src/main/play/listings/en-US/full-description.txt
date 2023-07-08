@@ -1,6 +1,6 @@
 This application adds exo Laurentides buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from exo.quebec, @allo_exo and @exo_Nord on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Nord on Twitter.
 
 exo Laurentides serves Blainville, Bois-des-Filion, Boisbriand, Deux-Montagnes, Lorraine, Mirabel, Oka, Pointe-Calumet, Rosemère, Sainte-Anne-des-Plaines, Saint-Eustache, Sainte-Marthe-sur-le-Lac, Sainte-Thérèse, Saint-Jérôme and Saint-Joseph-du-Lac.
 
@@ -22,4 +22,4 @@ exo Laurentides was formerly known as RTM Laurentides sector and CIT Laurentides
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news from exo.quebec and Twitter
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter

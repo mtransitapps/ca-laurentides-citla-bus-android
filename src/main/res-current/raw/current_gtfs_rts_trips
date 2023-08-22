@@ -50,13 +50,14 @@
 10100,0,'Gare St-Jérôme',101
 10101,0,'St-Antoine',101
 10201,0,'Gare St-Jérôme',102
-10200,0,'St-Antoine',102
+10200,0,'Lafontaine / Carref Du N',102
 10300,0,'Méga Ctr / Carref Du N',103
 10301,0,'Méga Ctr / Gare St-Jérôme',103
 10500,0,'Bellefeuille N',105
 10501,0,'Gare St-Jérôme',105
 10700,0,'Carref Du N',107
 10701,0,'Gare St-Jérôme',107
+24300,0,'Mirabel (St-Augustin) / Gare Ste-Thérèse',243
 40400,0,'Deux-Montagnes',404
 40401,0,'Montréal Ctr-Ville',404
 49600,0,'Gare Deux-Montagnes',496
@@ -92,7 +93,7 @@
 2000010100,0,'Gare St-Jérôme',20000101
 2000010101,0,'St-Antoine',20000101
 2000010201,0,'Gare St-Jérôme',20000102
-2000010200,0,'St-Antoine',20000102
+2000010200,0,'Lafontaine / Carref Du N',20000102
 2000010300,0,'Méga Ctr / Carref Du N',20000103
 2000010301,0,'Méga Ctr / Gare St-Jérôme',20000103
 2000010500,0,'Bellefeuille N',20000105

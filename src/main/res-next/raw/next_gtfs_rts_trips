@@ -60,6 +60,12 @@
 24300,0,'Mirabel (St-Augustin) / Gare Ste-Thérèse',243
 40400,0,'Deux-Montagnes',404
 40401,0,'Montréal Ctr-Ville',404
+49600,0,'Gare Deux-Montagnes',496
+49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
+49801,0,'Montréal Ctr-Ville',498
+49800,0,'Term St-Eustache',498
+49900,0,'Gare Deux-Montagnes',499
+49901,0,'Term Côte-Vertu',499
 74400,0,'St-Eustache',744
 74401,0,'St-Placide',744
 90401,0,'Gare Deux-Montagnes<>Grand-Moulin',904
@@ -71,7 +77,7 @@
 2000001700,0,'Terrebonne',20000017
 2000002001,0,'Gare Rosemère',20000020
 2000002000,0,'Lorraine / Terrebonne O',20000020
-2000002101,0,'Institut Archambeault',20000021
+2000002101,0,'Institut Archambault',20000021
 2000002100,0,'Mtée Gagnon',20000021
 2000002301,0,'Gare Ste-Thérèse',20000023
 2000002300,0,'Ste-Anne-Des-Plaines',20000023

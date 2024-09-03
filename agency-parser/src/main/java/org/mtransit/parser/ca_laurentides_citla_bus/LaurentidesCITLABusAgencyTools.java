@@ -59,6 +59,15 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
+	@Override
+	public @Nullable Long convertRouteIdFromShortNameNotSupported(@NotNull String routeShortName) {
+		switch (routeShortName) {
+		case "YMX":
+			return 30_000_001L;
+		}
+		return super.convertRouteIdFromShortNameNotSupported(routeShortName);
+	}
+
 	@NotNull
 	@Override
 	public String getRouteShortName(@NotNull GRoute gRoute) {
@@ -71,7 +80,7 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 	}
 
 	private static final Pattern P1METRO = Pattern.compile("(\\(métro )", Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE | Pattern.CANON_EQ);
-	private static final String P1METRO_REPLACEMENT = "\\(";
+	private static final String P1METRO_REPLACEMENT = "(";
 
 	private static final Pattern DASH_DES = Pattern.compile("(- des? )", Pattern.CASE_INSENSITIVE);
 	private static final String DASH_DES_REPLACEMENT = "- ";
@@ -168,7 +177,7 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		String stopCode = getStopCode(gStop);
-		if (stopCode.length() > 0 && CharUtils.isDigitsOnly(stopCode)) {
+		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
 		//noinspection deprecation

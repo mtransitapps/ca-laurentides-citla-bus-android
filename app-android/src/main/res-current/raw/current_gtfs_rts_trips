@@ -13,7 +13,7 @@
 2000,0,'Lorraine / Terrebonne O',20
 2200,0,'Bois-Des-Filion',22
 2201,0,'Gare Ste-Thérèse',22
-2301,0,'Ste-Thérèse / Ste-Anne-Des-Plaines',23
+2301,0,'Ste-Anne-Des-Plaines / Ste-Thérèse',23
 2401,0,'Métro Cartier',24
 2400,0,'Ste-Anne-Des-Plaines',24
 2700,0,'Bois-Des-Filion',27
@@ -99,3 +99,5 @@
 2000010501,0,'Gare St-Jérôme',20000105
 2000010700,0,'Carref Du N',20000107
 2000010701,0,'Gare St-Jérôme',20000107
+3000000101,0,'Métro Montmorency',30000001
+3000000100,0,'YMX',30000001

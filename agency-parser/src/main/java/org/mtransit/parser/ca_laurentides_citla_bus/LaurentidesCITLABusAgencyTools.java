@@ -38,11 +38,6 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 		return "exo Laurentides";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public Integer getAgencyRouteType() {
@@ -170,7 +165,7 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 		if (ZERO.equals(gStop.getStopCode())) {
 			return EMPTY;
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		return gStop.getStopId(); // used by GTFS-RT
 	}
 
@@ -180,7 +175,7 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		switch (gStop.getStopId()) {
 		case "A19103":
 			return 10_001;
@@ -190,8 +185,10 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 			return 10_003;
 		case "LN04":
 			return 10_004;
+		case "83990_":
+			return 83990_00;
 		default:
-			throw new MTLog.Fatal("Unexpected stop ID for %s!", gStop);
+			throw new MTLog.Fatal("Unexpected stop ID for %s!", gStop.toStringPlus(true));
 		}
 	}
 }

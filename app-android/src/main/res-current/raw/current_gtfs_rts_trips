@@ -1,7 +1,5 @@
 801,0,'Métro Montmorency',8
 800,0,'Term St-Eustache',8
-900,0,'Lafontaine',9
-901,0,'Métro Montmorency',9
 1101,0,'Ste-Thérèse<>Laval (Ste-Rose)',11
 1200,0,'Bois-Des-Filion',12
 1201,0,'Gare Rosemère',12
@@ -44,19 +42,31 @@
 9200,0,'Term St-Eustache',92
 9301,0,'Gare Deux-Montagnes',93
 9300,0,'Term St-Eustache',93
-10000,0,'Carref Du N',100
-10001,0,'Gare St-Jérôme',100
-10100,0,'Gare St-Jérôme',101
-10101,0,'St-Antoine',101
-10201,0,'Gare St-Jérôme',102
-10200,0,'Lafontaine / Carref Du N',102
-10300,0,'Méga Ctr / Carref Du N',103
-10301,0,'Méga Ctr / Gare St-Jérôme',103
-10500,0,'Bellefeuille N',105
-10501,0,'Gare St-Jérôme',105
-10700,0,'Carref Du N',107
-10701,0,'Gare St-Jérôme',107
+23000,0,'Carref Du N',230
+23001,0,'SmartCentre St-Jérôme',230
+23101,0,'Roland-Godard<>Melançon',231
+23200,0,'Melançon<>Roland-Godard',232
+23300,0,'Maisonneuve<>Mtée Ste-Thérèse',233
+23401,0,'Mtée Ste-Thérèse<>Maisonneuve',234
+23500,0,'Lafontaine<>Carref Du N',235
+23501,0,'Lafontaine<>Term St-Jérôme',235
+23600,0,'36e Av<>St-Antoine',236
+23701,0,'St-Antoine<>36e Av',237
+23801,0,'Mirabel (St-Canut) <>St-Jérôme',238
+23900,0,'Mirabel-En-Haut<>St-Jérôme',239
 24300,0,'Mirabel (St-Augustin) / Gare Ste-Thérèse',243
+30301,0,'Gare St-Jérôme',303
+30300,0,'Sect Chutes Wilson',303
+30600,0,'Chutes Wilson',306
+30601,0,'Term St-Jérôme',306
+30900,0,'Porte-Du-N',309
+30901,0,'Term St-Jérôme',309
+31000,0,'Eaux-Vives',310
+31001,0,'Term St-Jérôme',310
+31100,0,'Lafontaine',311
+31101,0,'Term St-Jérôme',311
+31201,0,'Lamontagne',312
+31200,0,'Term St-Jérôme',312
 40400,0,'Deux-Montagnes',404
 40401,0,'Montréal Ctr-Ville',404
 49600,0,'Gare Deux-Montagnes',496
@@ -65,6 +75,8 @@
 49800,0,'Term St-Eustache',498
 49900,0,'Gare Deux-Montagnes',499
 49901,0,'Term Côte-Vertu',499
+70901,0,'Term Montmorency',709
+70900,0,'Term St-Jérôme',709
 74400,0,'St-Eustache',744
 74401,0,'St-Placide',744
 90401,0,'Gare Deux-Montagnes<>Grand-Moulin',904
@@ -87,18 +99,6 @@
 2000007100,0,'Gare Blainville',20000071
 2000007200,0,'Gare Blainville',20000072
 2000007401,0,'Gare Ste-Thérèse',20000074
-2000010000,0,'Carref Du N',20000100
-2000010001,0,'Gare St-Jérôme',20000100
-2000010100,0,'Gare St-Jérôme',20000101
-2000010101,0,'St-Antoine',20000101
-2000010201,0,'Gare St-Jérôme',20000102
-2000010200,0,'Lafontaine / Carref Du N',20000102
-2000010300,0,'Méga Ctr / Carref Du N',20000103
-2000010301,0,'Méga Ctr / Gare St-Jérôme',20000103
-2000010500,0,'Bellefeuille N',20000105
-2000010501,0,'Gare St-Jérôme',20000105
-2000010700,0,'Carref Du N',20000107
-2000010701,0,'Gare St-Jérôme',20000107
 2000090401,0,'Gare Deux-Montagnes<>Grand-Moulin',20000904
 3000000101,0,'Métro Montmorency',30000001
 3000000100,0,'YMX',30000001

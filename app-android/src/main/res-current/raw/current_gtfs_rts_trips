@@ -47,7 +47,8 @@
 23101,0,'Roland-Godard<>Melançon',231
 23200,0,'Melançon<>Roland-Godard',232
 23300,0,'Maisonneuve<>Mtée Ste-Thérèse',233
-23401,0,'Mtée Ste-Thérèse<>Maisonneuve',234
+23401,0,'Term St-Jérôme Q:J',234
+23400,0,'Term St-Jérôme Q:K',234
 23500,0,'Lafontaine<>Carref Du N',235
 23501,0,'Lafontaine<>Term St-Jérôme',235
 23600,0,'36e Av<>St-Antoine',236
@@ -75,6 +76,8 @@
 49800,0,'Term St-Eustache',498
 49900,0,'Gare Deux-Montagnes',499
 49901,0,'Term Côte-Vertu',499
+50901,0,'Montmorency Express',509
+50900,0,'St-Jérôme Express',509
 70901,0,'Term Montmorency',709
 70900,0,'Term St-Jérôme',709
 74400,0,'St-Eustache',744

@@ -47,8 +47,7 @@
 23101,0,'Roland-Godard<>Melançon',231
 23200,0,'Melançon<>Roland-Godard',232
 23300,0,'Maisonneuve<>Mtée Ste-Thérèse',233
-23401,0,'Term St-Jérôme Q:J',234
-23400,0,'Term St-Jérôme Q:K',234
+23400,0,'Mtée Ste-Thérèse<>Maisonneuve',234
 23500,0,'Lafontaine<>Carref Du N',235
 23501,0,'Lafontaine<>Term St-Jérôme',235
 23600,0,'36e Av<>St-Antoine',236
@@ -56,8 +55,8 @@
 23801,0,'Mirabel (St-Canut) <>St-Jérôme',238
 23900,0,'Mirabel-En-Haut<>St-Jérôme',239
 24300,0,'Mirabel (St-Augustin) / Gare Ste-Thérèse',243
-30301,0,'Gare St-Jérôme',303
-30300,0,'Sect Chutes Wilson',303
+30301,0,'Gare St-Jérôme / Term St-Jérôme',303
+30300,0,'Sect Chutes Wilson / St-Camille',303
 30600,0,'Chutes Wilson',306
 30601,0,'Term St-Jérôme',306
 30900,0,'Porte-Du-N',309

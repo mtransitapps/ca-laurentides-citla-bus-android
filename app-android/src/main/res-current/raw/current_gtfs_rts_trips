@@ -73,7 +73,7 @@
 49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
 49801,0,'Montréal Ctr-Ville',498
 49800,0,'Term St-Eustache',498
-49900,0,'Gare Deux-Montagnes',499
+49900,0,'Ston Deux-Montagnes',499
 49901,0,'Term Côte-Vertu',499
 50901,0,'Montmorency Express',509
 50900,0,'St-Jérôme Express',509
@@ -90,8 +90,8 @@
 2000001700,0,'Terrebonne',20000017
 2000002001,0,'Gare Rosemère',20000020
 2000002000,0,'Lorraine / Terrebonne O',20000020
-2000002101,0,'Institut Archambault',20000021
 2000002100,0,'Mtée Gagnon',20000021
+2000002101,0,'Établissement Archambault',20000021
 2000002301,0,'Gare Ste-Thérèse',20000023
 2000002300,0,'Ste-Anne-Des-Plaines',20000023
 2000002501,0,'Ste-Anne-Des-Plaines',20000025
@@ -102,5 +102,5 @@
 2000007200,0,'Gare Blainville',20000072
 2000007401,0,'Gare Ste-Thérèse',20000074
 2000090401,0,'Gare Deux-Montagnes<>Grand-Moulin',20000904
-3000000101,0,'Métro Montmorency',30000001
+3000000101,0,'Term Montmorency',30000001
 3000000100,0,'YMX',30000001

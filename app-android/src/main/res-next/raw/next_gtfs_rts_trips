@@ -1,0 +1,86 @@
+22001,0,'Pte-Calumet<>Ston Deux-Montagnes',220
+22100,0,'Pte-Calumet<>Ston Deux-Montagnes',221
+22201,0,'Deux-Montagnes-Ste-Marthe-Grand-Moulin',222
+22501,0,'Grand-Moulin<>Arthur-Sauvé<>Ind',225
+22600,0,'Ind<>Arthur-Sauvé<>Grand-Moulin',226
+22701,0,'Boileau<>Hector-Lanthier<>Binette',227
+22800,0,'Binette<>Hector-Lanthier<>Boileau',228
+23000,0,'Carref Du N',230
+23001,0,'SmartCentre St-Jérôme',230
+23101,0,'Roland-Godard<>Melançon',231
+23200,0,'Melançon<>Roland-Godard',232
+23300,0,'Maisonneuve<>Mtée Ste-Thérèse',233
+23400,0,'Mtée Ste-Thérèse<>Maisonneuve',234
+23500,0,'Lafontaine<>Carref Du N',235
+23501,0,'Lafontaine<>Term St-Jérôme',235
+23600,0,'36e Av<>St-Antoine',236
+23701,0,'St-Antoine<>36e Av',237
+23801,0,'Mirabel (St-Canut) <>St-Jérôme',238
+23900,0,'Mirabel-En-Haut<>St-Jérôme',239
+24001,0,'Grande-Allée<>Grande-Côte<>Curé-Boivin',240
+24100,0,'Curé-Boivin<>Grande Côte<>Grande-Allée',241
+24201,0,'Term Ste-Thérèse',242
+24300,0,'St-Augustin<>Term Ste-Thérèse',243
+24601,0,'Domaine<>de La Renaissance',246
+24700,0,'Fontainebleau<>Chambéry',247
+24701,0,'Term Ste-Thérèse',247
+24801,0,'Gare Rosemère',248
+24800,0,'Rosemère',248
+24900,0,'Bois-Des-Filions',249
+24901,0,'Term Ste-Thérèse',249
+25000,0,'Ste-Anne-Des-Plaines',250
+25001,0,'Term Ste-Thérèse',250
+25100,0,'Domaine<>Poly Ste-Thérèse',251
+25101,0,'Term Ste-Thérèse',251
+25201,0,'Miles-Îles',252
+25301,0,'Gare Rosemère',253
+25300,0,'Terrebonne',253
+25400,0,'Blainville E',254
+25500,0,'Blainville O',255
+25600,0,'Mtée Gagnon',256
+25601,0,'Établissement Archambault',256
+30301,0,'Gare St-Jérôme / Term St-Jérôme',303
+30300,0,'Sect Chutes Wilson / St-Camille',303
+30600,0,'Chutes Wilson',306
+30601,0,'Term St-Jérôme',306
+30900,0,'Porte-Du-N',309
+30901,0,'Term St-Jérôme',309
+31000,0,'Eaux-Vives',310
+31001,0,'Term St-Jérôme',310
+31100,0,'Lafontaine',311
+31101,0,'Term St-Jérôme',311
+31201,0,'Lamontagne',312
+31200,0,'Term St-Jérôme',312
+31700,0,'Cégep Terrebonne',317
+31701,0,'Ste-Anne-Des-Plaines',317
+40400,0,'Deux-Montagnes',404
+40401,0,'Montréal Ctr-Ville',404
+40500,0,'Ste-Thérèse Express',405
+40501,0,'Ston Deux-Montagnes Express',405
+49600,0,'Gare Deux-Montagnes',496
+49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
+49801,0,'Montréal Ctr-Ville',498
+49800,0,'Term St-Eustache',498
+49900,0,'Ston Deux-Montagnes',499
+49901,0,'Term Côte-Vertu',499
+50801,0,'Montmorency Express',508
+50901,0,'Montmorency Express',509
+50900,0,'St-Jérôme Express',509
+51401,0,'Métro Cartier',514
+51400,0,'Ste-Anne-Des-Plaines',514
+60001,0,'St-Eustache<>Ston Deux-Montagnes',600
+60000,0,'Ste-Thérèse<>Cégep Lionel-Groulx',600
+60401,0,'Oka<>St-Placide',604
+60400,0,'St-Eustache / Ston Deux-Montagnes',604
+60501,0,'St-Eustache<>Ston Deux-Montagnes',605
+60500,0,'Ste-Thérèse<>Cégep Lionel-Groulx',605
+61001,0,'Term Ste-Thérèse',610
+61000,0,'Term Terrebonne',610
+70701,0,'AM',707
+70700,0,'PM',707
+70801,0,'Montmorency',708
+70800,0,'St-Eustache<>Ston Deux-Montagnes',708
+70901,0,'Term Montmorency',709
+70900,0,'Term St-Jérôme',709
+3000000101,0,'Term Montmorency',30000001
+3000000100,0,'YMX',30000001

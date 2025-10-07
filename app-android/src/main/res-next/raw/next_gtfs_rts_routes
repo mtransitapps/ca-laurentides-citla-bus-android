@@ -1,5 +1,5 @@
 220,'220','Deux-Montagnes - Pointe-Calumet (59 Avenue)','1F1F1F',49648,3
-221,'221','Deux-Montagnes - Pointe Calumet (Avenue Jospeh)','1F1F1F',49649,3
+221,'221','Deux-Montagnes - Pointe Calumet (Avenue Joseph)','1F1F1F',49649,3
 222,'222','Deux-Montagnes - Ste-Marthe-Sur-Le-Lac','1F1F1F',49650,3
 225,'225','Deux-Montagnes - St-Eustache (A-Sauvé)','1F1F1F',49653,3
 226,'226','Deux-Montagnes - St-Eustache (A-Sauvé)','1F1F1F',49654,3
@@ -15,8 +15,8 @@
 237,'237','St-Jérôme (St-Antoine)','1F1F1F',49686,3
 238,'238','St-Jérôme - Mirabel (St-Canut)','1F1F1F',49687,3
 239,'239','St-Jérôme - Mirabel (Mirabel-En-Haut)','1F1F1F',49688,3
-240,'240','Boisbriand Nord => Sud','1F1F1F',49710,3
-241,'241','Boisbriand Sud => Nord','1F1F1F',49711,3
+240,'240','Boisbriand Nord - Boisbriand Sud','1F1F1F',49710,3
+241,'241','Boisbriand Sud - Boisbriand Nord','1F1F1F',49711,3
 242,'242','Ste-Thérèse - Rosemère - Laval (Ste-Rose)','1F1F1F',49712,3
 243,'243','St-Augustin - Ste-Thérèse','1F1F1F',49713,3
 246,'246','Ste-Thérèse - Blainville (Renaissance)','1F1F1F',49716,3
@@ -52,4 +52,5 @@
 707,'707','Boisbriand - Laval','1F1F1F',54398,3
 708,'708','Deux-Montagnes - Laval','1F1F1F',54399,3
 709,'709','St-Jérôme - Laval','1F1F1F',54400,3
+904,'904','Gare Deux-Montagnes - Grand-Moulin','1F1F1F',56317,3
 30000001,'YMX','YMX Express','1F1F1F',88004,3

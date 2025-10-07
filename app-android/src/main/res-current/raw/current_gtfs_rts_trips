@@ -16,7 +16,7 @@
 2400,0,'Ste-Anne-Des-Plaines',24
 2700,0,'Bois-Des-Filion',27
 2701,0,'Gare Ste-Thérèse',27
-2801,0,'Métro Cartier',28
+2801,0,'Term Cartier',28
 2800,0,'Terrebonne O',28
 5101,0,'Boisbriand / Gare Ste-Thérèse',51
 5200,0,'Boisbriand / Gare Ste-Thérèse',52
@@ -75,8 +75,8 @@
 49800,0,'Term St-Eustache',498
 49900,0,'Ston Deux-Montagnes',499
 49901,0,'Term Côte-Vertu',499
-50901,0,'Montmorency Express',509
-50900,0,'St-Jérôme Express',509
+50901,0,'Term Montmorency Express',509
+50900,0,'Term St-Jérôme Express',509
 70901,0,'Term Montmorency',709
 70900,0,'Term St-Jérôme',709
 74400,0,'St-Eustache',744

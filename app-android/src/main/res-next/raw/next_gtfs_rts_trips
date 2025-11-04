@@ -57,10 +57,8 @@
 40401,0,'Montréal Ctr-Ville',404
 40500,0,'Ste-Thérèse Express',405
 40501,0,'Ston Deux-Montagnes Express',405
-49600,0,'Gare Deux-Montagnes',496
-49601,0,'Gare Sunnybrooke-Roxboro-Pierrefonds',496
 49801,0,'Montréal Ctr-Ville',498
-49800,0,'Term St-Eustache',498
+49800,0,'St-Eustache<>Deux-Montagnes / Term St-Eustache',498
 49900,0,'Ston Deux-Montagnes',499
 49901,0,'Term Côte-Vertu',499
 50801,0,'Term Montmorency Express',508
@@ -71,7 +69,7 @@
 60001,0,'St-Eustache (S) <>Deux-Montagnes',600
 60000,0,'St-Eustache (S) <>Ste-Thérèse',600
 60401,0,'Oka<>St-Placide',604
-60400,0,'St-Eustache / Ston Deux-Montagnes',604
+60400,0,'Ston Deux-Montagnes',604
 60501,0,'St-Eustache (N) <>Deux-Montagnes',605
 60500,0,'St-Eustache (N) <>Ste-Thérèse',605
 61001,0,'Term Ste-Thérèse',610
@@ -82,6 +80,8 @@
 70801,0,'Term Montmorency',708
 70901,0,'Term Montmorency',709
 70900,0,'Term St-Jérôme',709
-90401,0,'Gare Deux-Montagnes<>Grand-Moulin',904
+90401,0,'Ston Deux-Montagnes<>Grand-Moulin',904
+2000090401,0,'Deux-Montagnes<>Grand-Moulin',20000904
+2000090400,0,'Ston Deux-Montagnes',20000904
 3000000101,0,'Term Montmorency',30000001
 3000000100,0,'YMX',30000001

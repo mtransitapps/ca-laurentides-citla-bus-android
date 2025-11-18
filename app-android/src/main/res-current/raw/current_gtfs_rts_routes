@@ -1,32 +1,3 @@
-8,'8','St-Eustache - Laval (Montmorency)','1F1F1F',56,3
-11,'11','Laval - Rosemère - Ste-Thérèse','1F1F1F',1568,3
-12,'12','Direction Bois-Des-Filion','1F1F1F',1569,3
-15,'15','Rosemère - Gare Rosemère','1F1F1F',1572,3
-17,'17','Terrebonne - Gare Rosemère','1F1F1F',1574,3
-20,'20','Terrebonne Ouest - Gare Rosemère','1F1F1F',1598,3
-22,'22','Bois-Des-Filion - Ste-Thérèse','1F1F1F',1600,3
-23,'23','Ste-Anne-Des-Plaines - Ste-Thérèse','1F1F1F',1601,3
-24,'24','Ste-Anne-Des-Plaines - Laval (Cartier)','1F1F1F',1602,3
-27,'27','Lorraine - Ste-Thérèse','1F1F1F',1605,3
-28,'28','Terrebonne - Laval (Cartier)','1F1F1F',1606,3
-51,'51','Boisbriand Nord => Sud','1F1F1F',1692,3
-52,'52','Boisbriand Sud => Nord','1F1F1F',1693,3
-59,'59','Boisbriand - Laval (Montmorency)','1F1F1F',1700,3
-60,'60','Ste-Thérèse','1F1F1F',1722,3
-61,'61','Ste-Thérèse - Secteur Bas Ste-Thérèse','1F1F1F',1723,3
-62,'62','Ste-Thérèse - Secteur Des Mille-Îles','1F1F1F',1724,3
-71,'71','Blainville - Secteur Est','1F1F1F',1754,3
-72,'72','Blainville - Secteur Ouest','1F1F1F',1755,3
-73,'73','Blainville - Secteur Fontainebleau','1F1F1F',1756,3
-74,'74','Blainville - Secteur Fontainebleau','1F1F1F',1757,3
-80,'80','St-Eustache - Pointe-Calumet','1F1F1F',1784,3
-81,'81','St-Eustache - Pointe-Calumet','1F1F1F',1785,3
-88,'88','St-Eustache - Ste-Thérèse','1F1F1F',1792,3
-89,'89','St-Eustache - Secteur Dubois','1F1F1F',1793,3
-90,'90','St-Eustache - Arthur-Sauvé & Industriel','1F1F1F',1815,3
-91,'91','St-Eustache - Secteur Est (St-Laurent)','1F1F1F',1816,3
-92,'92','St-Eustache - Secteur Centre','1F1F1F',1817,3
-93,'93','St-Eustache - Deux-Montagnes','1F1F1F',1818,3
 220,'220','Deux-Montagnes - Pointe-Calumet (59 Avenue)','1F1F1F',49648,3
 221,'221','Deux-Montagnes - Pointe Calumet (Avenue Joseph)','1F1F1F',49649,3
 222,'222','Deux-Montagnes - Ste-Marthe-Sur-Le-Lac','1F1F1F',49650,3
@@ -68,7 +39,6 @@
 317,'317','Ste-Anne-Des-Plaines -Terrebonne (Sur Réservation)','1F1F1F',50585,1501
 404,'404','Service Express Centre-Ville/Deux-Montagnes','1F1F1F',51512,3
 405,'405','Deux-Montagnes - Ste-Thérèse Express','1F1F1F',51513,3
-496,'496','Navette Deux-Montagnes - Sunnybrooke','1F1F1F',51793,3
 498,'498','St-Eustache - Ste-Dorothée - Centre-Ville','1F1F1F',51795,3
 499,'499','Service Express Côte-Vertu / Deux-Montagnes','1F1F1F',51796,3
 508,'508','Deux-Montagnes - Laval Express','1F1F1F',52477,3
@@ -81,19 +51,6 @@
 707,'707','Boisbriand - Laval','1F1F1F',54398,3
 708,'708','Deux-Montagnes - Laval','1F1F1F',54399,3
 709,'709','St-Jérôme - Laval','1F1F1F',54400,3
-744,'744','Express D''Oka','1F1F1F',54519,3
 904,'904','Gare Deux-Montagnes - Grand-Moulin','1F1F1F',56317,3
-20000012,'T12','Bois-Des-Filion - Gare Rosemère (Sur Réservation)','1F1F1F',82293,1501
-20000015,'T15','Rosemère - Gare Rosemère (Sur Réservation)','1F1F1F',82296,1501
-20000017,'T17','Terrebonne - Gare Rosemère (Sur Réservation)','1F1F1F',82298,1501
-20000020,'T20','Terrebonne Ouest - Gare Rosemère (Sur Réservation)','1F1F1F',82322,1501
-20000021,'T21','Taxi Collectif - Établissement Archambault','1F1F1F',82323,3
-20000023,'T23','Ste-Anne-Des-Plaines - Ste-Thérèse (Réservation)','1F1F1F',82325,1501
-20000025,'T25','Ste-Anne-Des-Plaines -Terrebonne (Sur Réservation)','1F1F1F',82327,1501
-20000053,'T53','Boisbriand S Vers Boisbriand N (Sur Réservation)','1F1F1F',82418,1501
-20000060,'T60','Ste-Thérèse (Sur Réservation)','1F1F1F',82446,1501
-20000071,'T71','Blainville - Secteur Est (Sur Réservation)','1F1F1F',82478,1501
-20000072,'T72','Blainville - Secteur Ouest (Sur Réservation)','1F1F1F',82479,1501
-20000074,'T74','Blainville - Fontainebleau (Sur Réservation)','1F1F1F',82481,1501
 20000904,'T904','Gare Deux-Montagnes - Grand-Moulin','1F1F1F',2558761,3
 30000001,'YMX','YMX Express','1F1F1F',88004,3

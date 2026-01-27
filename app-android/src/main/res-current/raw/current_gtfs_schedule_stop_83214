@@ -1,6 +1,6 @@
-'LA-H26-LA_GTFS-Fête-2-02',31700,65040,0,'Cégep Terrebonne',0,7000,0,'Cégep Terrebonne',0,11000,0,'Cégep Terrebonne',0,29000,0,'Cégep Terrebonne',0,30000,0,'Cégep Terrebonne',0
-'LA-H26-LA_GTFS-Fête-2-02',31701,123110,0,'Ste-Anne-Des-Plaines',0,27000,0,'Ste-Anne-Des-Plaines',0,10000,0,'Ste-Anne-Des-Plaines',0,13000,0,'Ste-Anne-Des-Plaines',0,10000,0,'Ste-Anne-Des-Plaines',0,47500,0,'Ste-Anne-Des-Plaines',0
-'LA-H26-LA_GTFS-Semaine-01',31700,65040,0,'Cégep Terrebonne',0,7000,0,'Cégep Terrebonne',0,11000,0,'Cégep Terrebonne',0,29000,0,'Cégep Terrebonne',0,30000,0,'Cégep Terrebonne',0
-'LA-H26-LA_GTFS-Semaine-01',31701,123110,0,'Ste-Anne-Des-Plaines',0,27000,0,'Ste-Anne-Des-Plaines',0,10000,0,'Ste-Anne-Des-Plaines',0,13000,0,'Ste-Anne-Des-Plaines',0,10000,0,'Ste-Anne-Des-Plaines',0,47500,0,'Ste-Anne-Des-Plaines',0
-'LA-H26-LA_GTFS-Semaine-50',31700,65040,0,'Cégep Terrebonne',0,7000,0,'Cégep Terrebonne',0,11000,0,'Cégep Terrebonne',0,29000,0,'Cégep Terrebonne',0,30000,0,'Cégep Terrebonne',0
-'LA-H26-LA_GTFS-Semaine-50',31701,123110,0,'Ste-Anne-Des-Plaines',0,27000,0,'Ste-Anne-Des-Plaines',0,10000,0,'Ste-Anne-Des-Plaines',0,13000,0,'Ste-Anne-Des-Plaines',0,10000,0,'Ste-Anne-Des-Plaines',0,47500,0,'Ste-Anne-Des-Plaines',0
+31700,'LA-H26-LA_GTFS-Fête-2-02',650,,5176,0,11 23,0,70,,5177,0,11 23,0,110,,5178,0,11 23,0,290,,5179,0,11 23,0,300,,5180,0,11 23,0
+31700,'LA-H26-LA_GTFS-Semaine-01',650,,5182,0,11 23,0,70,,5183,0,11 23,0,110,,5184,0,11 23,0,290,,5185,0,11 23,0,300,,5186,0,11 23,0
+31700,'LA-H26-LA_GTFS-Semaine-50',650,,5188,0,11 23,0,70,,5189,0,11 23,0,110,,5190,0,11 23,0,290,,5191,0,11 23,0,300,,5192,0,11 23,0
+31701,'LA-H26-LA_GTFS-Fête-2-02',1231,,5198,0,24,0,270,,5203,0,24,0,100,,5199,0,24,0,130,,5200,0,24,0,100,,5201,0,24,0,475,,5202,0,24,0
+31701,'LA-H26-LA_GTFS-Semaine-01',1231,,5205,0,24,0,270,,5210,0,24,0,100,,5206,0,24,0,130,,5207,0,24,0,100,,5208,0,24,0,475,,5209,0,24,0
+31701,'LA-H26-LA_GTFS-Semaine-50',1231,,5212,0,24,0,270,,5217,0,24,0,100,,5213,0,24,0,130,,5214,0,24,0,100,,5215,0,24,0,475,,5216,0,24,0

@@ -45,6 +45,16 @@ public class LaurentidesCITLABusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "LA\\-\\w{1}\\d{2}\\-(LA_GTFS)\\-"; // remove trip ID shared by all trip IDs (include season letter and YY year)
+	}
+
+	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^LA\\-\\w{1}\\d{2}\\-(LA_GTFS)\\-"; // remove beginning of service ID shared by all service IDs (include season letter and YY year)
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}

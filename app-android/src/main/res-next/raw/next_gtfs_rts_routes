@@ -36,7 +36,10 @@
 311,'311','St-Jérôme (Lafontaine) (Sur Réservation)','',50579,1501
 312,'312','St-Jérôme (Lamontagne) (Sur Réservation)','',50580,1501
 317,'317','Ste-Anne-Des-Plaines -Terrebonne (Sur Réservation)','',50585,1501
+404,'404','Service Express Centre-Ville/Deux-Montagnes','',51512,3
 405,'405','Deux-Montagnes - Ste-Thérèse Express','',51513,3
+498,'498','St-Eustache - Ste-Dorothée - Centre-Ville','',51795,3
+499,'499','Service Express Côte-Vertu / Deux-Montagnes','',51796,3
 508,'508','Deux-Montagnes - Laval Express','',52477,3
 509,'509','St-Jérôme - Laval Express','',52478,3
 514,'514','Ste-Anne-Des-Plaines - Laval','',52504,3
@@ -47,4 +50,6 @@
 707,'707','Boisbriand - Laval','',54398,3
 708,'708','Deux-Montagnes - Laval','',54399,3
 709,'709','St-Jérôme - Laval','',54400,3
+716,'716','Deux-Montagnes - Ste-Dorothée','',54428,3
+20000904,'T904','Gare Deux-Montagnes - Grand-Moulin','',2558761,3
 30000001,'YMX','Aérocité YMX Express','',88004,3

@@ -49,16 +49,10 @@
 31101,0,'Term St-Jérôme',311
 31201,0,'Lamontagne',312
 31200,0,'Term St-Jérôme',312
-31700,0,'Mtée Gagnon',317
+31700,0,'Cégep Terrebonne',317
 31701,0,'Ste-Anne-Des-Plaines',317
-40400,0,'Deux-Montagnes',404
-40401,0,'Montréal Ctr-Ville',404
 40500,0,'Ste-Thérèse Express',405
 40501,0,'Ston Deux-Montagnes Express',405
-49801,0,'Montréal Ctr-Ville',498
-49800,0,'St-Eustache<>Deux-Montagnes',498
-49900,0,'Ston Deux-Montagnes',499
-49901,0,'Term Côte-Vertu',499
 50801,0,'Term Montmorency Express',508
 50901,0,'Term Montmorency Express',509
 50900,0,'Term St-Jérôme Express',509
@@ -78,9 +72,5 @@
 70801,0,'Term Montmorency',708
 70901,0,'Term Montmorency',709
 70900,0,'Term St-Jérôme',709
-71600,0,'Ston Deux-Montagnes',716
-71601,0,'Ston Ste-Dorothée',716
-2000090400,0,'Ston Deux-Montagnes',20000904
-2000090401,0,'Ston Grand-Moulin',20000904
 3000000101,0,'Term Montmorency',30000001
 3000000100,0,'YMX',30000001

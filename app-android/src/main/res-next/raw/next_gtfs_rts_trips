@@ -31,14 +31,13 @@
 25000,0,'Ste-Anne-Des-Plaines',250
 25001,0,'Term Ste-Thérèse',250
 25100,0,'Mille-Îles<>du Domaine',251
-25101,0,'Term Ste-Thérèse',251
 25201,0,'Mille-Îles<>Term Ste-Thérèse',252
 25301,0,'Gare Rosemère',253
 25300,0,'Lorraine<>Terrebonne',253
 25400,0,'Gare Blainville<>Blainville (E)',254
 25500,0,'Gare Blainville<>Blainville (O)',255
-30300,0,'St-Camille',303
-30301,0,'Term St-Jérôme',303
+30301,0,'Gare St-Jérôme',303
+30300,0,'Sect Chutes Wilson',303
 30600,0,'Chutes Wilson',306
 30601,0,'Term St-Jérôme',306
 30900,0,'Porte-Du-N',309
@@ -51,19 +50,12 @@
 31200,0,'Term St-Jérôme',312
 31700,0,'Cégep Terrebonne',317
 31701,0,'Ste-Anne-Des-Plaines',317
-40500,0,'Ste-Thérèse Express',405
-40501,0,'Ston Deux-Montagnes Express',405
-50801,0,'Term Montmorency Express',508
-50901,0,'Term Montmorency Express',509
-50900,0,'Term St-Jérôme Express',509
 51400,0,'Ste-Anne-Des-Plaines',514
 51401,0,'Term Cartier',514
 60001,0,'St-Eustache (S) <>Deux-Montagnes',600
 60000,0,'St-Eustache (S) <>Ste-Thérèse',600
 60401,0,'Oka<>St-Placide',604
 60400,0,'Ston Deux-Montagnes',604
-60501,0,'St-Eustache (N) <>Deux-Montagnes',605
-60500,0,'St-Eustache (N) <>Ste-Thérèse',605
 61001,0,'Term Ste-Thérèse',610
 61000,0,'Term Terrebonne',610
 70701,0,'AM',707

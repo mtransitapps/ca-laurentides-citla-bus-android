@@ -1,0 +1,72 @@
+{
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": true,
+  "route_short_name_to_route_id_configs": [
+    {
+      "route_short_name": "YMX",
+      "route_id": 30000001
+    }
+  ],
+  "default_route_long_name_enabled": true,
+  "route_long_name_cleaners": [
+    {
+      "regex": "(\\(métro )",
+      "ignore_case": true,
+      "replacement": "("
+    },
+    {
+      "regex": "(- des? )",
+      "ignore_case": true,
+      "replacement": "- "
+    },
+    {
+      "regex": "(Boisbriand Sud Vers Boisbriand Nord)",
+      "ignore_case": true,
+      "replacement": "Boisbriand Sud => Nord"
+    },
+    {
+      "regex": "(Boisbriand Nord Vers Boisbriand Sud)",
+      "ignore_case": true,
+      "replacement": "Boisbriand Nord => Sud"
+    }
+  ],
+  "direction_finder_enabled": true,
+  "trip_id_cleanup_regex": "LA\\-\\w{1}\\d{2}\\-(LA_GTFS)\\-",
+  "trip_id_cleanup_regex_comment": "remove trip ID shared by all trip IDs (include season letter and YY year)",
+  "trip_headsign_remove_via": true,
+  "trip_headsign_cleaners": [
+    {
+      "regex": "( - )",
+      "replacement": "<>",
+      "ignore_case": true
+    },
+    {
+      "regex": "(express )",
+      "ignore_case": true
+    },
+    {
+      "regex": "(civique #?(\\d+))",
+      "ignore_case": true,
+      "replacement": "$2"
+    }
+  ],
+  "use_stop_id_for_stop_code": true,
+  "stop_id_clean_merged": true,
+  "stop_name_cleaners": [
+    {
+      "regex": "( - )",
+      "replacement": "<>",
+      "ignore_case": true
+    },
+    {
+      "regex": "devant",
+      "ignore_case": true,
+      "is_word": true
+    },
+    {
+      "regex": "((^|\\W)(civique #?(\\d+))(\\W|$))",
+      "ignore_case": true,
+      "replacement": "$2#$4$5"
+    }
+  ]
+}
